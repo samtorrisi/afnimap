@@ -3,7 +3,7 @@
 
 Step 1  Europe PMC: find papers whose methods section mentions AFNI, afni_proc or
         afni_proc.py AND that mention fMRI / "functional MRI" / "functional magnetic
-        resonance imaging", published 1996-2026. Preprints are excluded and papers
+        resonance imaging" / EPI / "echo planar imaging" / BOLD, published 1996-2026. Preprints are excluded and papers
         are de-duplicated by DOI; only papers with a DOI are kept.
 Step 2  OpenAlex: look the DOIs up, take authors flagged is_corresponding,
         and their institutions.
@@ -30,8 +30,9 @@ LIMIT = int(sys.argv[1]) if len(sys.argv) > 1 else 200
 EPMC = "https://www.ebi.ac.uk/europepmc/webservices/rest/search"
 OA = "https://api.openalex.org"
 QUERY = ('(METHODS:"AFNI" OR METHODS:"afni_proc" OR METHODS:"afni_proc.py") '
-         'AND (fMRI OR "functional MRI" OR '
-         '"functional magnetic resonance imaging") '
+         'AND ("fMRI" OR "functional MRI" OR '
+         '"functional magnetic resonance imaging" OR '
+         '"EPI" OR "echo planar imaging" OR "BOLD") '
          'AND PUB_YEAR:[1996 TO 2026] AND NOT SRC:PPR')
 CACHE = "afni_cache.json"
 SAVE_EVERY = 10  # batches

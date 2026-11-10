@@ -1,113 +1,120 @@
 institution,country,city,lat,lon,year,paper_credit
-National Institutes of Health,US,Bethesda,38.98067,-77.10026,2021,35
+National Institutes of Health,US,Bethesda,38.98067,-77.10026,2021,37
 National Institutes of Health,US,Bethesda,38.98067,-77.10026,2019,35
-National Institutes of Health,US,Bethesda,38.98067,-77.10026,2022,31
-National Institutes of Health,US,Bethesda,38.98067,-77.10026,2020,28
+National Institutes of Health,US,Bethesda,38.98067,-77.10026,2022,32
+National Institutes of Health,US,Bethesda,38.98067,-77.10026,2020,29
+National Institutes of Health,US,Bethesda,38.98067,-77.10026,2018,27
 National Institutes of Health,US,Bethesda,38.98067,-77.10026,2015,27
-National Institutes of Health,US,Bethesda,38.98067,-77.10026,2018,26
 National Institutes of Health,US,Bethesda,38.98067,-77.10026,2017,26
 University of California San Diego,US,San Diego,32.71571,-117.16472,2013,26
 National Institutes of Health,US,Bethesda,38.98067,-77.10026,2012,26
 National Institutes of Health,US,Bethesda,38.98067,-77.10026,2016,25
 National Institutes of Health,US,Bethesda,38.98067,-77.10026,2014,25
-National Institutes of Health,US,Bethesda,38.98067,-77.10026,2013,24
+National Institutes of Health,US,Bethesda,38.98067,-77.10026,2013,25
+National Institutes of Health,US,Bethesda,38.98067,-77.10026,2024,23
 Harvard University,US,Cambridge,42.3751,-71.10561,2025,22
-National Institutes of Health,US,Bethesda,38.98067,-77.10026,2024,22
+National Institutes of Health,US,Bethesda,38.98067,-77.10026,2023,22
+University of California San Diego,US,San Diego,32.71571,-117.16472,2012,22
 University of California San Diego,US,San Diego,32.71571,-117.16472,2015,21
-National Institutes of Health,US,Bethesda,38.98067,-77.10026,2023,20
-University of California San Diego,US,San Diego,32.71571,-117.16472,2012,20
+National Institutes of Health,US,Bethesda,38.98067,-77.10026,2010,19
 University of California San Diego,US,San Diego,32.71571,-117.16472,2008,19
+National Institutes of Health,US,Bethesda,38.98067,-77.10026,2026,18
+National Institutes of Health,US,Bethesda,38.98067,-77.10026,2025,18
 University of California San Diego,US,San Diego,32.71571,-117.16472,2011,18
 University of California San Diego,US,San Diego,32.71571,-117.16472,2009,18
-National Institutes of Health,US,Bethesda,38.98067,-77.10026,2026,17
-National Institutes of Health,US,Bethesda,38.98067,-77.10026,2025,17
 Harvard University,US,Cambridge,42.3751,-71.10561,2021,17
-National Institutes of Health,US,Bethesda,38.98067,-77.10026,2010,17
 National Institutes of Health,US,Bethesda,38.98067,-77.10026,2009,17
+Harvard University,US,Cambridge,42.3751,-71.10561,2024,16
 University of California San Diego,US,San Diego,32.71571,-117.16472,2014,16
-Harvard University,US,Cambridge,42.3751,-71.10561,2024,15
-University of Wisconsin–Madison,US,Madison,43.07305,-89.40123,2020,14
+University of Wisconsin–Madison,US,Madison,43.07305,-89.40123,2020,15
+Centre National de la Recherche Scientifique,FR,Paris,48.85341,2.3488,2025,14
+University of California San Diego,US,San Diego,32.71571,-117.16472,2020,14
 University of California San Diego,US,San Diego,32.71571,-117.16472,2019,14
 University of Pittsburgh,US,Pittsburgh,40.44062,-79.99589,2017,14
-Centre National de la Recherche Scientifique,FR,Paris,48.85341,2.3488,2025,13
 Yale University,US,New Haven,41.30815,-72.92816,2023,13
+Harvard University,US,Cambridge,42.3751,-71.10561,2022,13
 Laureate Institute for Brain Research,US,Tulsa,36.15398025512695,-95.99276733398438,2020,13
 University of Wisconsin–Madison,US,Madison,43.07305,-89.40123,2018,13
 University of Wisconsin–Madison,US,Madison,43.07305,-89.40123,2015,13
-Harvard University,US,Cambridge,42.3751,-71.10561,2022,12
-University of California San Diego,US,San Diego,32.71571,-117.16472,2020,12
+Medical College of Wisconsin,US,Milwaukee,43.03889846801758,-87.9064712524414,2014,13
+Medical College of Wisconsin,US,Milwaukee,43.03889846801758,-87.9064712524414,2013,13
+University of Wisconsin–Madison,US,Madison,43.07305,-89.40123,2012,13
+National Institutes of Health,US,Bethesda,38.98067,-77.10026,2011,13
+University of California San Diego,US,San Diego,32.71571,-117.16472,2010,13
+National Institutes of Health,US,Bethesda,38.98067,-77.10026,2008,13
 University of Pittsburgh,US,Pittsburgh,40.44062,-79.99589,2020,12
 Mind Research Network,US,Albuquerque,35.09520721435547,-106.6213607788086,2019,12
 University of California San Diego,US,San Diego,32.71571,-117.16472,2018,12
+University of California San Diego,US,San Diego,32.71571,-117.16472,2017,12
 University of Pennsylvania,US,Philadelphia,39.95238,-75.16362,2017,12
-Medical College of Wisconsin,US,Milwaukee,43.03889846801758,-87.9064712524414,2014,12
-Medical College of Wisconsin,US,Milwaukee,43.03889846801758,-87.9064712524414,2013,12
-National Institutes of Health,US,Bethesda,38.98067,-77.10026,2011,12
-University of California San Diego,US,San Diego,32.71571,-117.16472,2010,12
-National Institutes of Health,US,Bethesda,38.98067,-77.10026,2008,12
+University of Wisconsin–Madison,US,Madison,43.07305,-89.40123,2016,12
 National Institutes of Health,US,Bethesda,38.98067,-77.10026,2007,12
 University of North Carolina at Chapel Hill,US,Chapel Hill,35.9132,-79.05584,2023,11
+University of Pittsburgh,US,Pittsburgh,40.44062,-79.99589,2022,11
 Yale University,US,New Haven,41.30815,-72.92816,2022,11
 Laureate Institute for Brain Research,US,Tulsa,36.15398025512695,-95.99276733398438,2022,11
 Yale University,US,New Haven,41.30815,-72.92816,2021,11
+Emory University,US,Atlanta,33.749,-84.38798,2021,11
+Laureate Institute for Brain Research,US,Tulsa,36.15398025512695,-95.99276733398438,2021,11
 "University of California, Los Angeles",US,Los Angeles,34.05223,-118.24368,2020,11
 Harvard University,US,Cambridge,42.3751,-71.10561,2019,11
 Harvard University,US,Cambridge,42.3751,-71.10561,2018,11
-University of California San Diego,US,San Diego,32.71571,-117.16472,2017,11
+University of Wisconsin–Madison,US,Madison,43.07305,-89.40123,2017,11
 Yale University,US,New Haven,41.30815,-72.92816,2016,11
-University of Wisconsin–Madison,US,Madison,43.07305,-89.40123,2016,11
 University of Pittsburgh,US,Pittsburgh,40.44062,-79.99589,2015,11
-University of Wisconsin–Madison,US,Madison,43.07305,-89.40123,2012,11
+"University of California, Los Angeles",US,Los Angeles,34.05223,-118.24368,2014,11
 Laureate Institute for Brain Research,US,Tulsa,36.15398025512695,-95.99276733398438,2023,10
-University of Pittsburgh,US,Pittsburgh,40.44062,-79.99589,2022,10
 San Diego State University,US,San Diego,32.7157096862793,-117.16471862792969,2021,10
-Emory University,US,Atlanta,33.749,-84.38798,2021,10
-Laureate Institute for Brain Research,US,Tulsa,36.15398025512695,-95.99276733398438,2021,10
+University of Minnesota,US,Minneapolis,44.97997,-93.26384,2021,10
+Harvard University,US,Cambridge,42.3751,-71.10561,2020,10
 University of Pittsburgh,US,Pittsburgh,40.44062,-79.99589,2019,10
 University of North Carolina at Chapel Hill,US,Chapel Hill,35.9132,-79.05584,2019,10
 San Diego State University,US,San Diego,32.7157096862793,-117.16471862792969,2018,10
 University of North Carolina at Chapel Hill,US,Chapel Hill,35.9132,-79.05584,2018,10
 University of Pittsburgh,US,Pittsburgh,40.44062,-79.99589,2018,10
-University of Wisconsin–Madison,US,Madison,43.07305,-89.40123,2017,10
+University of Wisconsin–Madison,US,Madison,43.07305,-89.40123,2014,10
 University of California San Diego,US,San Diego,32.71571,-117.16472,2007,10
 Chinese Academy of Sciences,CN,Beijing,39.9075,116.39723,2025,9
 University of Michigan,US,Ann Arbor,42.27756,-83.74088,2023,9
-University of Minnesota,US,Minneapolis,44.97997,-93.26384,2021,9
+University of Pennsylvania,US,Philadelphia,39.95238,-75.16362,2022,9
 University of Pittsburgh,US,Pittsburgh,40.44062,-79.99589,2021,9
 University of North Carolina at Chapel Hill,US,Chapel Hill,35.9132,-79.05584,2020,9
 San Diego State University,US,San Diego,32.7157096862793,-117.16471862792969,2020,9
-Harvard University,US,Cambridge,42.3751,-71.10561,2020,9
 "University of Maryland, College Park",US,College Park,38.98067,-76.93692,2019,9
+University of Minnesota,US,Minneapolis,44.97997,-93.26384,2019,9
 University of Pennsylvania,US,Philadelphia,39.95238,-75.16362,2018,9
 Laureate Institute for Brain Research,US,Tulsa,36.15398025512695,-95.99276733398438,2018,9
-"University of California, Los Angeles",US,Los Angeles,34.05223,-118.24368,2014,9
-University of Wisconsin–Madison,US,Madison,43.07305,-89.40123,2014,9
 University of North Carolina at Chapel Hill,US,Chapel Hill,35.9132,-79.05584,2026,8
 "University of Maryland, College Park",US,College Park,38.98067,-76.93692,2025,8
 Emory University,US,Atlanta,33.749,-84.38798,2025,8
+University of California San Diego,US,San Diego,32.71571,-117.16472,2024,8
 Yale University,US,New Haven,41.30815,-72.92816,2024,8
+Harvard University,US,Cambridge,42.3751,-71.10561,2023,8
 Centre National de la Recherche Scientifique,FR,Paris,48.85341,2.3488,2022,8
 University of Michigan,US,Ann Arbor,42.27756,-83.74088,2022,8
-University of Pennsylvania,US,Philadelphia,39.95238,-75.16362,2022,8
 University of North Carolina at Chapel Hill,US,Chapel Hill,35.9132,-79.05584,2022,8
+University of Wisconsin–Madison,US,Madison,43.07305,-89.40123,2022,8
 University of North Carolina at Chapel Hill,US,Chapel Hill,35.9132,-79.05584,2021,8
-University of Minnesota,US,Minneapolis,44.97997,-93.26384,2019,8
+University of Florida,US,Gainesville,29.65163,-82.32483,2020,8
+University of Alabama at Birmingham,US,Birmingham,33.52066,-86.80249,2019,8
 University of Michigan,US,Ann Arbor,42.27756,-83.74088,2018,8
 Harvard University,US,Cambridge,42.3751,-71.10561,2017,8
+University of Pittsburgh,US,Pittsburgh,40.44062,-79.99589,2016,8
 University of Toronto,CA,Toronto,43.70643,-79.39864,2016,8
 University of California San Diego,US,San Diego,32.71571,-117.16472,2016,8
 Harvard University,US,Cambridge,42.3751,-71.10561,2015,8
 University of Pennsylvania,US,Philadelphia,39.95238,-75.16362,2015,8
 University of Wisconsin–Madison,US,Madison,43.07305,-89.40123,2013,8
 The University of Texas Health Science Center at Houston,US,Houston,29.76328,-95.36327,2011,8
+Medical College of Wisconsin,US,Milwaukee,43.03889846801758,-87.9064712524414,2011,8
+Georgia Institute of Technology,US,Atlanta,33.749,-84.38798,2026,7
 University of Minnesota,US,Minneapolis,44.97997,-93.26384,2025,7
 Vanderbilt University,US,Nashville,36.16589,-86.78444,2025,7
-University of California San Diego,US,San Diego,32.71571,-117.16472,2024,7
+Northwestern University,US,Evanston,42.04114,-87.69006,2025,7
 University of Pennsylvania,US,Philadelphia,39.95238,-75.16362,2024,7
 University of Toronto,CA,Toronto,43.70643,-79.39864,2024,7
-Harvard University,US,Cambridge,42.3751,-71.10561,2023,7
 University of Wisconsin–Madison,US,Madison,43.07305,-89.40123,2023,7
-University of Wisconsin–Madison,US,Madison,43.07305,-89.40123,2022,7
+University of Toronto,CA,Toronto,43.70643,-79.39864,2023,7
 University of Calgary,CA,Calgary,51.05011,-114.08529,2022,7
 University of California San Diego,US,San Diego,32.71571,-117.16472,2021,7
 Medical College of Wisconsin,US,Milwaukee,43.03889846801758,-87.9064712524414,2021,7
@@ -115,22 +122,24 @@ Boys Town National Research Hospital,US,Omaha,41.25626,-95.94043,2021,7
 University of Pennsylvania,US,Philadelphia,39.95238,-75.16362,2020,7
 Yale University,US,New Haven,41.30815,-72.92816,2020,7
 University of Minnesota,US,Minneapolis,44.97997,-93.26384,2020,7
-University of Florida,US,Gainesville,29.65163,-82.32483,2020,7
 Medical College of Wisconsin,US,Milwaukee,43.03889846801758,-87.9064712524414,2020,7
 University of Michigan,US,Ann Arbor,42.27756,-83.74088,2019,7
 Northwestern University,US,Evanston,42.04114,-87.69006,2019,7
 San Diego State University,US,San Diego,32.7157096862793,-117.16471862792969,2019,7
+Medical College of Wisconsin,US,Milwaukee,43.03889846801758,-87.9064712524414,2019,7
 University of Wisconsin–Madison,US,Madison,43.07305,-89.40123,2019,7
+Emory University,US,Atlanta,33.749,-84.38798,2018,7
 Northwestern University,US,Evanston,42.04114,-87.69006,2018,7
 Mind Research Network,US,Albuquerque,35.09520721435547,-106.6213607788086,2018,7
 Yale University,US,New Haven,41.30815,-72.92816,2018,7
 San Diego State University,US,San Diego,32.7157096862793,-117.16471862792969,2017,7
 Stanford University,US,Stanford,37.42411,-122.16608,2017,7
-University of Pittsburgh,US,Pittsburgh,40.44062,-79.99589,2016,7
+Yale University,US,New Haven,41.30815,-72.92816,2017,7
 The University of Texas at Dallas,US,Richardson,32.94818,-96.72972,2016,7
 Northwestern University,US,Evanston,42.04114,-87.69006,2015,7
 University of Pittsburgh,US,Pittsburgh,40.44062,-79.99589,2014,7
 San Diego State University,US,San Diego,32.7157096862793,-117.16471862792969,2013,7
+University of Pittsburgh,US,Pittsburgh,40.44062,-79.99589,2013,7
 Yale University,US,New Haven,41.30815,-72.92816,2013,7
 Medical College of Wisconsin,US,Milwaukee,43.03889846801758,-87.9064712524414,2012,7
 "University of California, Los Angeles",US,Los Angeles,34.05223,-118.24368,2012,7
@@ -141,12 +150,15 @@ University of Toronto,CA,Toronto,43.70643,-79.39864,2026,6
 San Diego State University,US,San Diego,32.7157096862793,-117.16471862792969,2025,6
 Western University,CA,London,42.98339,-81.23304,2025,6
 University of Pittsburgh,US,Pittsburgh,40.44062,-79.99589,2025,6
-Northwestern University,US,Evanston,42.04114,-87.69006,2025,6
+Medical College of Wisconsin,US,Milwaukee,43.03889846801758,-87.9064712524414,2025,6
 University of California San Diego,US,San Diego,32.71571,-117.16472,2025,6
 University of Pittsburgh,US,Pittsburgh,40.44062,-79.99589,2024,6
 Georgia Institute of Technology,US,Atlanta,33.749,-84.38798,2024,6
 Northwestern University,US,Evanston,42.04114,-87.69006,2024,6
+Stanford University,US,Stanford,37.42411,-122.16608,2024,6
 Institute for Basic Science,KR,Daejeon,36.34912872314453,127.38493347167969,2024,6
+Medical College of Wisconsin,US,Milwaukee,43.03889846801758,-87.9064712524414,2024,6
+Mind Research Network,US,Albuquerque,35.09520721435547,-106.6213607788086,2024,6
 Centre National de la Recherche Scientifique,FR,Paris,48.85341,2.3488,2024,6
 Michigan State University,US,East Lansing,42.73698,-84.48387,2024,6
 University of North Carolina at Chapel Hill,US,Chapel Hill,35.9132,-79.05584,2024,6
@@ -155,6 +167,7 @@ Georgia Institute of Technology,US,Atlanta,33.749,-84.38798,2023,6
 Children's National,US,Washington,38.89511,-77.03637,2023,6
 Vanderbilt University,US,Nashville,36.16589,-86.78444,2023,6
 University of Pittsburgh,US,Pittsburgh,40.44062,-79.99589,2023,6
+"University of California, Los Angeles",US,Los Angeles,34.05223,-118.24368,2023,6
 University of Minnesota,US,Minneapolis,44.97997,-93.26384,2022,6
 Emory University,US,Atlanta,33.749,-84.38798,2022,6
 The University of Texas at Austin,US,Austin,30.26715,-97.74306,2022,6
@@ -162,20 +175,21 @@ University of California San Diego,US,San Diego,32.71571,-117.16472,2022,6
 Stanford University,US,Stanford,37.42411,-122.16608,2021,6
 Washington University in St. Louis,US,St Louis,38.62727,-90.19789,2021,6
 University of Toronto,CA,Toronto,43.70643,-79.39864,2021,6
+"University of California, Los Angeles",US,Los Angeles,34.05223,-118.24368,2021,6
 University of Michigan,US,Ann Arbor,42.27756,-83.74088,2021,6
 "Rutgers, The State University of New Jersey",US,New Brunswick,40.48622,-74.45182,2020,6
 Institute for Basic Science,KR,Daejeon,36.34912872314453,127.38493347167969,2020,6
 "University of Maryland, Baltimore",US,Baltimore,39.29038,-76.61219,2020,6
-University of Alabama at Birmingham,US,Birmingham,33.52066,-86.80249,2019,6
 "University of Maryland, Baltimore",US,Baltimore,39.29038,-76.61219,2019,6
-Medical College of Wisconsin,US,Milwaukee,43.03889846801758,-87.9064712524414,2019,6
-Emory University,US,Atlanta,33.749,-84.38798,2018,6
+"University of California, Los Angeles",US,Los Angeles,34.05223,-118.24368,2019,6
+University of Alabama at Birmingham,US,Birmingham,33.52066,-86.80249,2018,6
 Duke University,US,Durham,35.99403,-78.89862,2018,6
+University of Toronto,CA,Toronto,43.70643,-79.39864,2018,6
 Boston University,US,Boston,42.35843,-71.05977,2017,6
 Medical College of Wisconsin,US,Milwaukee,43.03889846801758,-87.9064712524414,2017,6
 Laureate Institute for Brain Research,US,Tulsa,36.15398025512695,-95.99276733398438,2017,6
-Yale University,US,New Haven,41.30815,-72.92816,2017,6
 University of North Carolina at Chapel Hill,US,Chapel Hill,35.9132,-79.05584,2017,6
+Medical College of Wisconsin,US,Milwaukee,43.03889846801758,-87.9064712524414,2016,6
 Laureate Institute for Brain Research,US,Tulsa,36.15398025512695,-95.99276733398438,2016,6
 Northwestern University,US,Evanston,42.04114,-87.69006,2016,6
 "University of California, Los Angeles",US,Los Angeles,34.05223,-118.24368,2016,6
@@ -190,13 +204,13 @@ Cleveland Clinic,US,Cleveland,41.4995,-81.69541,2014,6
 University of Arkansas for Medical Sciences,US,Little Rock,34.74648,-92.28959,2014,6
 Vanderbilt University,US,Nashville,36.16589,-86.78444,2014,6
 Harvard University,US,Cambridge,42.3751,-71.10561,2013,6
-University of Pittsburgh,US,Pittsburgh,40.44062,-79.99589,2013,6
 Mind Research Network,US,Albuquerque,35.09520721435547,-106.6213607788086,2012,6
+Vanderbilt University,US,Nashville,36.16589,-86.78444,2012,6
 Emory University,US,Atlanta,33.749,-84.38798,2012,6
 Stanford University,US,Stanford,37.42411,-122.16608,2011,6
 University of Wisconsin–Madison,US,Madison,43.07305,-89.40123,2011,6
-Medical College of Wisconsin,US,Milwaukee,43.03889846801758,-87.9064712524414,2011,6
 Nathan Kline Institute for Psychiatric Research,US,Orangeburg,41.049617767333984,-73.96810913085938,2011,6
+University of Wisconsin–Madison,US,Madison,43.07305,-89.40123,2010,6
 Medical College of Wisconsin,US,Milwaukee,43.03889846801758,-87.9064712524414,2010,6
 San Diego State University,US,San Diego,32.7157096862793,-117.16471862792969,2009,6
 Princeton University,US,Princeton,40.34872,-74.65905,2009,6
@@ -208,6 +222,8 @@ Princeton University,US,Princeton,40.34872,-74.65905,2026,5
 Georgia Institute of Technology,US,Atlanta,33.749,-84.38798,2025,5
 "University of California, San Francisco",US,San Francisco,37.77493,-122.41942,2025,5
 Duke University,US,Durham,35.99403,-78.89862,2025,5
+University of Wisconsin–Madison,US,Madison,43.07305,-89.40123,2025,5
+University of Toronto,CA,Toronto,43.70643,-79.39864,2025,5
 New York University,US,New York,40.71427,-74.00597,2025,5
 Seoul National University,KR,Seoul,37.566,126.9784,2025,5
 Laureate Institute for Brain Research,US,Tulsa,36.15398025512695,-95.99276733398438,2025,5
@@ -215,31 +231,35 @@ Capital Medical University,CN,Beijing,39.9075,116.39723,2025,5
 Chinese Academy of Sciences,CN,Beijing,39.9075,116.39723,2024,5
 King's College London,GB,London,51.50853,-0.12574,2024,5
 "University of California, Los Angeles",US,Los Angeles,34.05223,-118.24368,2024,5
+Duke University,US,Durham,35.99403,-78.89862,2024,5
 Dartmouth College,US,Hanover,43.70229,-72.28954,2024,5
 University of Wisconsin–Madison,US,Madison,43.07305,-89.40123,2024,5
 Beijing Normal University,CN,Beijing,39.9075,116.39723,2024,5
 University of Michigan,US,Ann Arbor,42.27756,-83.74088,2024,5
 New York State Psychiatric Institute,US,Manhattan,40.78342819213867,-73.96624755859375,2024,5
-Mind Research Network,US,Albuquerque,35.09520721435547,-106.6213607788086,2024,5
+"University of Maryland, Baltimore",US,Baltimore,39.29038,-76.61219,2024,5
 Nathan Kline Institute for Psychiatric Research,US,Orangeburg,41.049617767333984,-73.96810913085938,2024,5
 University of Zurich,CH,Zurich,47.36667,8.55,2024,5
-Stanford University,US,Stanford,37.42411,-122.16608,2024,5
+University of Southern California,US,Los Angeles,34.05223,-118.24368,2023,5
 Washington University in St. Louis,US,St Louis,38.62727,-90.19789,2023,5
 Pennsylvania State University,US,State College,40.79339,-77.86,2023,5
 University of Minnesota,US,Minneapolis,44.97997,-93.26384,2023,5
-University of Toronto,CA,Toronto,43.70643,-79.39864,2023,5
+University of California San Diego,US,San Diego,32.71571,-117.16472,2023,5
 Icahn School of Medicine at Mount Sinai,US,New York,40.71427,-74.00597,2023,5
 Chinese Academy of Sciences,CN,Beijing,39.9075,116.39723,2023,5
 University of Chicago,US,Chicago,41.85003,-87.65005,2023,5
-"University of California, Los Angeles",US,Los Angeles,34.05223,-118.24368,2023,5
 Linköping University,SE,Linköping,58.41086,15.62157,2023,5
 Michigan State University,US,East Lansing,42.73698,-84.48387,2022,5
 Houston Methodist,US,Houston,29.76328,-95.36327,2022,5
 San Diego State University,US,San Diego,32.7157096862793,-117.16471862792969,2022,5
 Medical College of Wisconsin,US,Milwaukee,43.03889846801758,-87.9064712524414,2022,5
+"University of California, Los Angeles",US,Los Angeles,34.05223,-118.24368,2022,5
 Vanderbilt University,US,Nashville,36.16589,-86.78444,2022,5
 Georgia Institute of Technology,US,Atlanta,33.749,-84.38798,2022,5
 University of Wisconsin–Milwaukee,US,Milwaukee,43.0389,-87.90647,2022,5
+Capital Medical University,CN,Beijing,39.9075,116.39723,2022,5
+"University of Maryland, Baltimore",US,Baltimore,39.29038,-76.61219,2021,5
+University of Alabama at Birmingham,US,Birmingham,33.52066,-86.80249,2021,5
 Western University,CA,London,42.98339,-81.23304,2021,5
 University of Wisconsin–Madison,US,Madison,43.07305,-89.40123,2021,5
 Northwestern University,US,Evanston,42.04114,-87.69006,2021,5
@@ -250,26 +270,27 @@ University of Iowa,US,Iowa City,41.66113,-91.53017,2020,5
 King's College London,GB,London,51.50853,-0.12574,2020,5
 Duke University,US,Durham,35.99403,-78.89862,2020,5
 Baylor College of Medicine,US,Houston,29.76328,-95.36327,2019,5
+Laureate Institute for Brain Research,US,Tulsa,36.15398025512695,-95.99276733398438,2019,5
 Duke University,US,Durham,35.99403,-78.89862,2019,5
 University of Toronto,CA,Toronto,43.70643,-79.39864,2019,5
 University of Washington,US,Seattle,47.60621,-122.33207,2019,5
 Institute for Basic Science,KR,Daejeon,36.34912872314453,127.38493347167969,2019,5
 University of Pennsylvania,US,Philadelphia,39.95238,-75.16362,2019,5
 Stanford University,US,Stanford,37.42411,-122.16608,2018,5
-University of Alabama at Birmingham,US,Birmingham,33.52066,-86.80249,2018,5
 "University of Maryland, Baltimore",US,Baltimore,39.29038,-76.61219,2018,5
 Centre for Addiction and Mental Health,CA,Toronto,43.70643,-79.39864,2018,5
 University of Arkansas for Medical Sciences,US,Little Rock,34.74648,-92.28959,2018,5
+"University of California, Los Angeles",US,Los Angeles,34.05223,-118.24368,2018,5
 University of Minnesota,US,Minneapolis,44.97997,-93.26384,2018,5
 "Rutgers, The State University of New Jersey",US,New Brunswick,40.48622,-74.45182,2018,5
 Pennsylvania State University,US,State College,40.79339,-77.86,2018,5
 The University of Texas at Dallas,US,Richardson,32.94818,-96.72972,2018,5
-University of Toronto,CA,Toronto,43.70643,-79.39864,2018,5
+University of Cape Town,ZA,Rondebosch,-33.96333,18.47639,2017,5
 "University of California, San Francisco",US,San Francisco,37.77493,-122.41942,2017,5
 Cleveland Clinic,US,Cleveland,41.4995,-81.69541,2017,5
 University of Alabama at Birmingham,US,Birmingham,33.52066,-86.80249,2016,5
 Emory University,US,Atlanta,33.749,-84.38798,2016,5
-Medical College of Wisconsin,US,Milwaukee,43.03889846801758,-87.9064712524414,2016,5
+Cleveland Clinic,US,Cleveland,41.4995,-81.69541,2016,5
 "University of Maryland, College Park",US,College Park,38.98067,-76.93692,2016,5
 "University of California, Irvine",US,Irvine,33.66946,-117.82311,2016,5
 University of Alabama at Birmingham,US,Birmingham,33.52066,-86.80249,2015,5
@@ -283,7 +304,6 @@ University of Minnesota,US,Minneapolis,44.97997,-93.26384,2013,5
 University of Pisa,IT,Pisa,43.70853,10.4036,2013,5
 Nathan Kline Institute for Psychiatric Research,US,Orangeburg,41.049617767333984,-73.96810913085938,2012,5
 San Diego State University,US,San Diego,32.7157096862793,-117.16471862792969,2012,5
-Vanderbilt University,US,Nashville,36.16589,-86.78444,2012,5
 University of Pittsburgh,US,Pittsburgh,40.44062,-79.99589,2012,5
 Yale University,US,New Haven,41.30815,-72.92816,2012,5
 Northwestern University,US,Evanston,42.04114,-87.69006,2012,5
@@ -293,65 +313,63 @@ University of Pittsburgh,US,Pittsburgh,40.44062,-79.99589,2011,5
 Harvard University,US,Cambridge,42.3751,-71.10561,2011,5
 University of Minnesota,US,Minneapolis,44.97997,-93.26384,2011,5
 Stanford University,US,Stanford,37.42411,-122.16608,2010,5
-University of Wisconsin–Madison,US,Madison,43.07305,-89.40123,2010,5
 San Diego State University,US,San Diego,32.7157096862793,-117.16471862792969,2010,5
 Harvard University,US,Cambridge,42.3751,-71.10561,2009,5
+Medical College of Wisconsin,US,Milwaukee,43.03889846801758,-87.9064712524414,2009,5
 Oulu University Hospital,FI,Oulu,65.01235961914062,25.46816062927246,2026,4
 University of California San Diego,US,San Diego,32.71571,-117.16472,2026,4
+Emory University,US,Atlanta,33.749,-84.38798,2026,4
 Medical College of Wisconsin,US,Milwaukee,43.03889846801758,-87.9064712524414,2026,4
 University of Pennsylvania,US,Philadelphia,39.95238,-75.16362,2026,4
-Georgia Institute of Technology,US,Atlanta,33.749,-84.38798,2026,4
 University of Michigan,US,Ann Arbor,42.27756,-83.74088,2026,4
 Chinese Academy of Sciences,CN,Beijing,39.9075,116.39723,2026,4
 Stanford University,US,Stanford,37.42411,-122.16608,2025,4
 Boston University,US,Boston,42.35843,-71.05977,2025,4
-Medical College of Wisconsin,US,Milwaukee,43.03889846801758,-87.9064712524414,2025,4
 Pennsylvania State University,US,State College,40.79339,-77.86,2025,4
 University of North Carolina at Chapel Hill,US,Chapel Hill,35.9132,-79.05584,2025,4
 Cornell University,US,Ithaca,42.44063,-76.49661,2025,4
-University of Toronto,CA,Toronto,43.70643,-79.39864,2025,4
+Inserm,FR,Paris,48.85341,2.3488,2025,4
 University of Pennsylvania,US,Philadelphia,39.95238,-75.16362,2025,4
 University of Washington,US,Seattle,47.60621,-122.33207,2025,4
 University of Nottingham,GB,Nottingham,52.9536,-1.15047,2025,4
 University College London,GB,London,51.50853,-0.12574,2024,4
-Duke University,US,Durham,35.99403,-78.89862,2024,4
+University of Minnesota,US,Minneapolis,44.97997,-93.26384,2024,4
 Radboud University Nijmegen,NL,Nijmegen,51.8425,5.85278,2024,4
+Stanford Medicine,US,Stanford,37.42411,-122.16608,2024,4
 Pennsylvania State University,US,State College,40.79339,-77.86,2024,4
 Emory University,US,Atlanta,33.749,-84.38798,2024,4
-"University of Maryland, Baltimore",US,Baltimore,39.29038,-76.61219,2024,4
 University of Colorado Anschutz,US,Aurora,39.72943,-104.83192,2024,4
 Laureate Institute for Brain Research,US,Tulsa,36.15398025512695,-95.99276733398438,2024,4
+Indiana University Bloomington,US,Bloomington,39.16533,-86.52639,2024,4
 Beijing Normal University,CN,Beijing,39.9075,116.39723,2023,4
 Western University,CA,London,42.98339,-81.23304,2023,4
 Emory University,US,Atlanta,33.749,-84.38798,2023,4
 "Rutgers, The State University of New Jersey",US,New Brunswick,40.48622,-74.45182,2023,4
 Northwestern University,US,Evanston,42.04114,-87.69006,2023,4
 Seoul National University,KR,Seoul,37.566,126.9784,2023,4
-University of California San Diego,US,San Diego,32.71571,-117.16472,2023,4
 Mayo Clinic,US,Rochester,44.02163,-92.4699,2023,4
+University of Alabama at Birmingham,US,Birmingham,33.52066,-86.80249,2023,4
 Dartmouth College,US,Hanover,43.70229,-72.28954,2023,4
 Institute for Basic Science,KR,Daejeon,36.34912872314453,127.38493347167969,2022,4
 University of Kansas,US,Lawrence,38.97167,-95.23525,2022,4
 Florida International University,US,Miami,25.77427,-80.19366,2022,4
-"University of California, Los Angeles",US,Los Angeles,34.05223,-118.24368,2022,4
 Utrecht University,NL,Utrecht,52.09083,5.12222,2022,4
 Montreal Neurological Institute and Hospital,CA,Montreal,45.50884,-73.58781,2022,4
+University Health Network,CA,Toronto,43.70643,-79.39864,2022,4
 Washington University in St. Louis,US,St Louis,38.62727,-90.19789,2022,4
 Northwestern University,US,Evanston,42.04114,-87.69006,2022,4
 Oulu University Hospital,FI,Oulu,65.01235961914062,25.46816062927246,2022,4
 "University of Maryland, Baltimore",US,Baltimore,39.29038,-76.61219,2022,4
-Capital Medical University,CN,Beijing,39.9075,116.39723,2022,4
 Columbia University Irving Medical Center,US,New York,40.71427,-74.00597,2021,4
-"University of Maryland, Baltimore",US,Baltimore,39.29038,-76.61219,2021,4
-University of Alabama at Birmingham,US,Birmingham,33.52066,-86.80249,2021,4
 Vanderbilt University,US,Nashville,36.16589,-86.78444,2021,4
-"University of California, Los Angeles",US,Los Angeles,34.05223,-118.24368,2021,4
+"University of California, Riverside",US,Riverside,33.95335,-117.39616,2021,4
 Pennsylvania State University,US,State College,40.79339,-77.86,2021,4
 University of Cambridge,GB,Cambridge,52.2,0.11667,2021,4
 University of Chieti-Pescara,IT,Chieti,42.348270416259766,14.164939880371094,2021,4
 University of Trento,IT,Trento,46.06787109375,11.12108039855957,2021,4
 University of Chicago,US,Chicago,41.85003,-87.65005,2021,4
 Georgia Institute of Technology,US,Atlanta,33.749,-84.38798,2021,4
+University of Science and Technology of China,CN,Hefei,31.86389,117.28083,2021,4
 Cleveland Clinic,US,Cleveland,41.4995,-81.69541,2021,4
 "University of California, Davis",US,Davis,38.54491,-121.74052,2021,4
 Kennedy Krieger Institute,US,Baltimore,39.29038,-76.61219,2021,4
@@ -371,7 +389,6 @@ St. Michael's Hospital,CA,Toronto,43.70642852783203,-79.39864349365234,2020,4
 "University of California, San Francisco",US,San Francisco,37.77493,-122.41942,2020,4
 University of Cambridge,GB,Cambridge,52.2,0.11667,2019,4
 Emory University,US,Atlanta,33.749,-84.38798,2019,4
-Laureate Institute for Brain Research,US,Tulsa,36.15398025512695,-95.99276733398438,2019,4
 Mayo Clinic,US,Rochester,44.02163,-92.4699,2019,4
 Pennsylvania State University,US,State College,40.79339,-77.86,2019,4
 Yale University,US,New Haven,41.30815,-72.92816,2019,4
@@ -379,19 +396,21 @@ University of Georgia,US,Athens,33.96095,-83.37794,2019,4
 Universitat Autònoma de Barcelona,ES,Cerdanyola del Vallès,41.49109,2.14079,2019,4
 Georgia Institute of Technology,US,Atlanta,33.749,-84.38798,2019,4
 The University of Texas at Dallas,US,Richardson,32.94818,-96.72972,2019,4
+King's College London,GB,London,51.50853,-0.12574,2019,4
 Cardiff University,GB,Cardiff,51.48,-3.18,2019,4
 Stanford University,US,Stanford,37.42411,-122.16608,2019,4
 Kyung Hee University,KR,Seoul,37.566,126.9784,2019,4
-"University of California, Los Angeles",US,Los Angeles,34.05223,-118.24368,2019,4
 University of Cambridge,GB,Cambridge,52.2,0.11667,2018,4
 "University of California, Davis",US,Davis,38.54491,-121.74052,2018,4
 Vanderbilt University,US,Nashville,36.16589,-86.78444,2018,4
+SRI International,US,Menlo Park,37.45383,-122.18219,2018,4
 Baylor College of Medicine,US,Houston,29.76328,-95.36327,2018,4
+"University of California, San Francisco",US,San Francisco,37.77493,-122.41942,2018,4
 University of Georgia,US,Athens,33.96095,-83.37794,2018,4
+Medical College of Wisconsin,US,Milwaukee,43.03889846801758,-87.9064712524414,2018,4
 University of Florida Health,US,Gainesville,29.65163,-82.32483,2018,4
 Capital Medical University,CN,Beijing,39.9075,116.39723,2018,4
 Purdue University West Lafayette,US,West Lafayette,40.42587,-86.90807,2017,4
-University of Cape Town,ZA,Rondebosch,-33.96333,18.47639,2017,4
 Mind Research Network,US,Albuquerque,35.09520721435547,-106.6213607788086,2017,4
 Virginia Tech,US,Blacksburg,37.22957,-80.41394,2017,4
 Washington University in St. Louis,US,St Louis,38.62727,-90.19789,2017,4
@@ -407,13 +426,15 @@ University of Minnesota,US,Minneapolis,44.97997,-93.26384,2017,4
 University of Arizona,US,Tucson,32.22174,-110.92648,2017,4
 University of North Carolina at Chapel Hill,US,Chapel Hill,35.9132,-79.05584,2016,4
 Purdue University West Lafayette,US,West Lafayette,40.42587,-86.90807,2016,4
+Vanderbilt University,US,Nashville,36.16589,-86.78444,2016,4
 University of Minnesota,US,Minneapolis,44.97997,-93.26384,2016,4
+Brown University,US,Providence,41.82399,-71.41283,2016,4
 Johns Hopkins University,US,Baltimore,39.29038,-76.61219,2016,4
 National Institute of Mental Health,US,Bethesda,38.98067,-77.10026,2016,4
 Harvard University,US,Cambridge,42.3751,-71.10561,2016,4
 "Rutgers, The State University of New Jersey",US,New Brunswick,40.48622,-74.45182,2016,4
-Cleveland Clinic,US,Cleveland,41.4995,-81.69541,2016,4
 "University of California, Davis",US,Davis,38.54491,-121.74052,2015,4
+Cleveland Clinic,US,Cleveland,41.4995,-81.69541,2015,4
 University of Colorado Boulder,US,Boulder,40.01499,-105.27055,2015,4
 San Diego State University,US,San Diego,32.7157096862793,-117.16471862792969,2014,4
 Stanford University,US,Stanford,37.42411,-122.16608,2014,4
@@ -441,11 +462,9 @@ Vanderbilt University,US,Nashville,36.16589,-86.78444,2011,4
 Georgia Institute of Technology,US,Atlanta,33.749,-84.38798,2009,4
 Emory University,US,Atlanta,33.749,-84.38798,2009,4
 University of Wisconsin–Madison,US,Madison,43.07305,-89.40123,2009,4
-Medical College of Wisconsin,US,Milwaukee,43.03889846801758,-87.9064712524414,2009,4
 Brown University,US,Providence,41.82399,-71.41283,2008,4
 Harvard University,US,Cambridge,42.3751,-71.10561,2007,4
 Florida State University,US,Tallahassee,30.43826,-84.28073,2026,3
-Emory University,US,Atlanta,33.749,-84.38798,2026,3
 Brown University,US,Providence,41.82399,-71.41283,2026,3
 Yale University,US,New Haven,41.30815,-72.92816,2026,3
 Laureate Institute for Brain Research,US,Tulsa,36.15398025512695,-95.99276733398438,2026,3
@@ -455,6 +474,7 @@ University of Colorado Anschutz,US,Aurora,39.72943,-104.83192,2026,3
 University of Alabama at Birmingham,US,Birmingham,33.52066,-86.80249,2026,3
 Centre National de la Recherche Scientifique,FR,Paris,48.85341,2.3488,2026,3
 Inserm,FR,Paris,48.85341,2.3488,2026,3
+Vanderbilt University,US,Nashville,36.16589,-86.78444,2026,3
 "Rutgers, The State University of New Jersey",US,New Brunswick,40.48622,-74.45182,2026,3
 Jagiellonian University,PL,Krakow,50.06143,19.93658,2026,3
 The University of Texas at Austin,US,Austin,30.26715,-97.74306,2026,3
@@ -467,11 +487,9 @@ Mind Research Network,US,Albuquerque,35.09520721435547,-106.6213607788086,2025,3
 Columbia University,US,New York,40.71427,-74.00597,2025,3
 University of Calgary,CA,Calgary,51.05011,-114.08529,2025,3
 Oulu University Hospital,FI,Oulu,65.01235961914062,25.46816062927246,2025,3
-University of Wisconsin–Madison,US,Madison,43.07305,-89.40123,2025,3
 Tianjin University,CN,Tianjin,39.14222,117.17667,2025,3
 Queen's University,CA,Kingston,44.22976,-76.48098,2025,3
 University of Chicago,US,Chicago,41.85003,-87.65005,2025,3
-Inserm,FR,Paris,48.85341,2.3488,2025,3
 University of Nebraska–Lincoln,US,Lincoln,40.8,-96.66696,2025,3
 Children's National,US,Washington,38.89511,-77.03637,2025,3
 King's College London,GB,London,51.50853,-0.12574,2025,3
@@ -480,24 +498,24 @@ Nanyang Technological University,SG,Singapore,1.28967,103.85007,2025,3
 "University of California, San Francisco",US,San Francisco,37.77493,-122.41942,2024,3
 Shanghai Jiao Tong University,CN,Shanghai,31.22222,121.45806,2024,3
 University of Calgary,CA,Calgary,51.05011,-114.08529,2024,3
+University of Southern California,US,Los Angeles,34.05223,-118.24368,2024,3
 Northeastern University,US,Boston,42.35843,-71.05977,2024,3
-University of Minnesota,US,Minneapolis,44.97997,-93.26384,2024,3
 "University of California, Davis",US,Davis,38.54491,-121.74052,2024,3
 "Rutgers, The State University of New Jersey",US,New Brunswick,40.48622,-74.45182,2024,3
 Barrow Neurological Institute,US,Phoenix,33.44838,-112.07404,2024,3
 University of Florida Health,US,Gainesville,29.65163,-82.32483,2024,3
 Cornell University,US,Ithaca,42.44063,-76.49661,2024,3
-Indiana University Bloomington,US,Bloomington,39.16533,-86.52639,2024,3
 Oulu University Hospital,FI,Oulu,65.01235961914062,25.46816062927246,2024,3
-Medical College of Wisconsin,US,Milwaukee,43.03889846801758,-87.9064712524414,2024,3
+Shanghai Medical College of Fudan University,CN,Shanghai,31.222219467163086,121.45806121826172,2024,3
 University of Chicago,US,Chicago,41.85003,-87.65005,2024,3
+University of Cape Town,ZA,Rondebosch,-33.96333,18.47639,2024,3
 Montreal Neurological Institute and Hospital,CA,Montreal,45.50884,-73.58781,2024,3
 Children's National,US,Washington,38.89511,-77.03637,2024,3
 University of Iowa,US,Iowa City,41.66113,-91.53017,2023,3
 University of Geneva,CH,Geneva,46.20222,6.14569,2023,3
 King's College London,GB,London,51.50853,-0.12574,2023,3
-University of Southern California,US,Los Angeles,34.05223,-118.24368,2023,3
 Cincinnati Children's Hospital Medical Center,US,Cincinnati,39.12711,-84.51439,2023,3
+University Health Network,CA,Toronto,43.70643,-79.39864,2023,3
 Anhui Medical University,CN,Hefei,31.86389,117.28083,2023,3
 Forschungszentrum Jülich,DE,Jülich,50.92149,6.36267,2023,3
 Indiana University Bloomington,US,Bloomington,39.16533,-86.52639,2023,3
@@ -508,6 +526,7 @@ Houston Methodist,US,Houston,29.76328,-95.36327,2023,3
 University of Colorado Anschutz,US,Aurora,39.72943,-104.83192,2023,3
 University of Pennsylvania,US,Philadelphia,39.95238,-75.16362,2023,3
 Boston University,US,Boston,42.35843,-71.05977,2023,3
+University of Calgary,CA,Calgary,51.05011,-114.08529,2023,3
 "University of California, San Francisco",US,San Francisco,37.77493,-122.41942,2023,3
 Brown University,US,Providence,41.82399,-71.41283,2023,3
 San Diego State University,US,San Diego,32.7157096862793,-117.16471862792969,2023,3
@@ -523,7 +542,6 @@ King's College London,GB,London,51.50853,-0.12574,2022,3
 University of Oslo,NO,Oslo,59.91273,10.74609,2022,3
 Chang Gung University,TW,Taoyuan,24.99368,121.29696,2022,3
 Children's Hospital of Philadelphia,US,Philadelphia,39.9523811340332,-75.16361999511719,2022,3
-University Health Network,CA,Toronto,43.70643,-79.39864,2022,3
 Johns Hopkins University,US,Baltimore,39.29038,-76.61219,2022,3
 Nationwide Children's Hospital,US,Columbus,39.96118,-82.99879,2022,3
 Boston University,US,Boston,42.35843,-71.05977,2022,3
@@ -541,6 +559,7 @@ Dartmouth College,US,Hanover,43.70229,-72.28954,2021,3
 Florida International University,US,Miami,25.77427,-80.19366,2021,3
 UNSW Sydney,AU,Sydney,-33.86785,151.20732,2021,3
 Karolinska University Hospital,SE,Stockholm,59.32938003540039,18.068710327148438,2021,3
+SRI International,US,Menlo Park,37.45383,-122.18219,2021,3
 New York University,US,New York,40.71427,-74.00597,2021,3
 University of Salzburg,AT,Salzburg,47.79941,13.04399,2021,3
 University of Pennsylvania,US,Philadelphia,39.95238,-75.16362,2021,3
@@ -548,12 +567,13 @@ Korea University,KR,Seoul,37.566,126.9784,2021,3
 Max Planck Institute for Human Cognitive and Brain Sciences,DE,Leipzig,51.33573532104492,12.388835906982422,2021,3
 Johns Hopkins University,US,Baltimore,39.29038,-76.61219,2021,3
 Massachusetts Eye and Ear Infirmary,US,Boston,42.35843,-71.05977,2021,3
+University of Iowa,US,Iowa City,41.66113,-91.53017,2021,3
+Northeastern University,US,Boston,42.35843,-71.05977,2021,3
 Duke University,US,Durham,35.99403,-78.89862,2021,3
 National Institute of Mental Health,US,Bethesda,38.98067,-77.10026,2021,3
 Princeton University,US,Princeton,40.34872,-74.65905,2021,3
 Utrecht University,NL,Utrecht,52.09083,5.12222,2021,3
 University of Florida,US,Gainesville,29.65163,-82.32483,2021,3
-University of Science and Technology of China,CN,Hefei,31.86389,117.28083,2021,3
 Peking University,CN,Beijing,39.9075,116.39723,2021,3
 Shantou University,CN,Shantou,23.354890823364258,116.67875671386719,2021,3
 Kyung Hee University,KR,Seoul,37.566,126.9784,2021,3
@@ -562,10 +582,13 @@ Jena University Hospital,DE,Jena,50.92878,11.5899,2021,3
 National University of Singapore,SG,Singapore,1.28967,103.85007,2021,3
 St. Michael's Hospital,CA,Toronto,43.70642852783203,-79.39864349365234,2021,3
 University of Illinois Urbana-Champaign,US,Urbana,40.11059,-88.20727,2021,3
+University Health Network,CA,Toronto,43.70643,-79.39864,2021,3
+Lund University,SE,Lund,55.70584,13.19321,2020,3
 Massachusetts Institute of Technology,US,Cambridge,42.3751,-71.10561,2020,3
 Vanderbilt University,US,Nashville,36.16589,-86.78444,2020,3
 University of Zurich,CH,Zurich,47.36667,8.55,2020,3
 Kyung Hee University,KR,Seoul,37.566,126.9784,2020,3
+University of Southern California,US,Los Angeles,34.05223,-118.24368,2020,3
 New York State Psychiatric Institute,US,Manhattan,40.78342819213867,-73.96624755859375,2020,3
 Cardiff University,GB,Cardiff,51.48,-3.18,2020,3
 University of New Mexico,US,Albuquerque,35.08449,-106.65114,2020,3
@@ -579,17 +602,19 @@ Icahn School of Medicine at Mount Sinai,US,New York,40.71427,-74.00597,2020,3
 University of Toronto,CA,Toronto,43.70643,-79.39864,2020,3
 Chinese Academy of Sciences,CN,Beijing,39.9075,116.39723,2020,3
 University of Calgary,CA,Calgary,51.05011,-114.08529,2020,3
+Capital Medical University,CN,Beijing,39.9075,116.39723,2020,3
 IMT School for Advanced Studies Lucca,IT,Lucca,43.84369,10.50447,2019,3
 Boys Town National Research Hospital,US,Omaha,41.25626,-95.94043,2019,3
 Oulu University Hospital,FI,Oulu,65.01235961914062,25.46816062927246,2019,3
 Northeastern University,US,Boston,42.35843,-71.05977,2019,3
 University of Colorado Anschutz,US,Aurora,39.72943,-104.83192,2019,3
+Oregon Health & Science University,US,Portland,45.5234489440918,-122.67620849609375,2019,3
 Linköping University,SE,Linköping,58.41086,15.62157,2019,3
 Massachusetts Eye and Ear Infirmary,US,Boston,42.35843,-71.05977,2019,3
 Temple University,US,Philadelphia,39.95238,-75.16362,2019,3
-King's College London,GB,London,51.50853,-0.12574,2019,3
 The University of Melbourne,AU,Melbourne,-37.814,144.96332,2019,3
 "Rutgers, The State University of New Jersey",US,New Brunswick,40.48622,-74.45182,2019,3
+National Institute of Neurological Disorders and Stroke,US,Bethesda,39.00382614135742,-77.10118103027344,2019,3
 Michigan State University,US,East Lansing,42.73698,-84.48387,2018,3
 "University of California, Irvine",US,Irvine,33.66946,-117.82311,2018,3
 University of Illinois Chicago,US,Chicago,41.85003,-87.65005,2018,3
@@ -600,19 +625,19 @@ Massachusetts Eye and Ear Infirmary,US,Boston,42.35843,-71.05977,2018,3
 Johns Hopkins University,US,Baltimore,39.29038,-76.61219,2018,3
 University of Washington,US,Seattle,47.60621,-122.33207,2018,3
 Indiana University Bloomington,US,Bloomington,39.16533,-86.52639,2018,3
-Medical College of Wisconsin,US,Milwaukee,43.03889846801758,-87.9064712524414,2018,3
 University of Iowa,US,Iowa City,41.66113,-91.53017,2018,3
 Icahn School of Medicine at Mount Sinai,US,New York,40.71427,-74.00597,2018,3
 "University of Maryland, College Park",US,College Park,38.98067,-76.93692,2018,3
-"University of California, Los Angeles",US,Los Angeles,34.05223,-118.24368,2018,3
 Hangzhou Normal University,CN,Hangzhou,30.29365,120.16142,2018,3
 University of Cincinnati,US,Cincinnati,39.12711,-84.51439,2018,3
 Cleveland Clinic,US,Cleveland,41.4995,-81.69541,2018,3
 Mayo Clinic,US,Rochester,44.02163,-92.4699,2018,3
 Johns Hopkins University,US,Baltimore,39.29038,-76.61219,2017,3
 University of Wisconsin–Milwaukee,US,Milwaukee,43.0389,-87.90647,2017,3
+University of Rochester Medicine,US,Rochester,43.15478,-77.61556,2017,3
 University of Iowa,US,Iowa City,41.66113,-91.53017,2017,3
 Southwest University,CN,Chongqing,29.560260772705078,106.55770874023438,2017,3
+Zhongda Hospital Southeast University,CN,Nanjing,32.07139587402344,118.77664947509766,2017,3
 St. Michael's Hospital,CA,Toronto,43.70642852783203,-79.39864349365234,2017,3
 "University of Maryland, Baltimore",US,Baltimore,39.29038,-76.61219,2017,3
 Peking University,CN,Beijing,39.9075,116.39723,2017,3
@@ -632,9 +657,7 @@ Nathan Kline Institute for Psychiatric Research,US,Orangeburg,41.049617767333984
 Haskins Laboratories,US,New Haven,41.30512237548828,-72.93131256103516,2016,3
 Memorial Sloan Kettering Cancer Center,US,New York,40.71427,-74.00597,2016,3
 University of Michigan,US,Ann Arbor,42.27756,-83.74088,2016,3
-Vanderbilt University,US,Nashville,36.16589,-86.78444,2016,3
 Duke University,US,Durham,35.99403,-78.89862,2016,3
-Brown University,US,Providence,41.82399,-71.41283,2016,3
 University of Illinois Urbana-Champaign,US,Urbana,40.11059,-88.20727,2016,3
 Stanford University,US,Stanford,37.42411,-122.16608,2016,3
 University of Washington,US,Seattle,47.60621,-122.33207,2016,3
@@ -653,7 +676,6 @@ University of Arkansas for Medical Sciences,US,Little Rock,34.74648,-92.28959,20
 Laureate Institute for Brain Research,US,Tulsa,36.15398025512695,-95.99276733398438,2015,3
 Zhongda Hospital Southeast University,CN,Nanjing,32.07139587402344,118.77664947509766,2015,3
 Yale University,US,New Haven,41.30815,-72.92816,2015,3
-Cleveland Clinic,US,Cleveland,41.4995,-81.69541,2015,3
 Shanghai Jiao Tong University,CN,Shanghai,31.22222,121.45806,2015,3
 University of Washington,US,Seattle,47.60621,-122.33207,2015,3
 Princeton University,US,Princeton,40.34872,-74.65905,2015,3
@@ -667,6 +689,7 @@ Laureate Institute for Brain Research,US,Tulsa,36.15398025512695,-95.99276733398
 University of Illinois Urbana-Champaign,US,Urbana,40.11059,-88.20727,2014,3
 Peking University,CN,Beijing,39.9075,116.39723,2014,3
 Haskins Laboratories,US,New Haven,41.30512237548828,-72.93131256103516,2014,3
+University of Toronto,CA,Toronto,43.70643,-79.39864,2014,3
 Washington University in St. Louis,US,St Louis,38.62727,-90.19789,2014,3
 "University of California, San Francisco",US,San Francisco,37.77493,-122.41942,2014,3
 Boston University,US,Boston,42.35843,-71.05977,2014,3
@@ -690,6 +713,7 @@ Oregon Health & Science University,US,Portland,45.5234489440918,-122.67620849609
 University of Toronto,CA,Toronto,43.70643,-79.39864,2013,3
 The University of Texas at Dallas,US,Richardson,32.94818,-96.72972,2013,3
 United States Department of Veterans Affairs,US,Washington,38.89511,-77.03637,2013,3
+"University of Maryland, Baltimore",US,Baltimore,39.29038,-76.61219,2012,3
 Stanford University,US,Stanford,37.42411,-122.16608,2012,3
 Brown University,US,Providence,41.82399,-71.41283,2012,3
 The University of Texas at Dallas,US,Richardson,32.94818,-96.72972,2012,3
@@ -756,11 +780,13 @@ Wayne State University,US,Detroit,42.33143,-83.04575,2026,2
 Peking University,CN,Beijing,39.9075,116.39723,2026,2
 Ruhr University Bochum,DE,Bochum,51.48165,7.21648,2026,2
 Beijing Normal University,CN,Beijing,39.9075,116.39723,2026,2
+Cardiff University,GB,Cardiff,51.48,-3.18,2026,2
 University of New Mexico,US,Albuquerque,35.08449,-106.65114,2026,2
 University of Geneva,CH,Geneva,46.20222,6.14569,2026,2
 California Institute of Technology,US,Pasadena,34.14778,-118.14452,2026,2
 Chinese University of Hong Kong,HK,Hong Kong,22.27832,114.17469,2026,2
 University of Pittsburgh,US,Pittsburgh,40.44062,-79.99589,2026,2
+Washington University in St. Louis,US,St Louis,38.62727,-90.19789,2026,2
 Queen's University,CA,Kingston,44.22976,-76.48098,2026,2
 "University of Maryland, College Park",US,College Park,38.98067,-76.93692,2026,2
 Maastricht University,NL,Maastricht,50.84833,5.68889,2026,2
@@ -770,11 +796,12 @@ Capital Medical University,CN,Beijing,39.9075,116.39723,2026,2
 National University of Singapore,SG,Singapore,1.28967,103.85007,2026,2
 University of Trento,IT,Trento,46.06787109375,11.12108039855957,2026,2
 University of Wisconsin–Madison,US,Madison,43.07305,-89.40123,2026,2
+Loma Linda University,US,Loma Linda,34.0483512878418,-117.26114654541016,2026,2
 San Francisco VA Medical Center,US,San Francisco,37.782470703125,-122.50423431396484,2026,2
 Aarhus University,DK,Aarhus,56.15674,10.21076,2026,2
-Vanderbilt University,US,Nashville,36.16589,-86.78444,2026,2
 Zhejiang University,CN,Hangzhou,30.29365,120.16142,2026,2
 Instituto de Salud Carlos III,ES,Madrid,40.4165,-3.70256,2026,2
+Linköping University,SE,Linköping,58.41086,15.62157,2026,2
 Brandeis University,US,Waltham,42.37649154663086,-71.23561096191406,2026,2
 Temple University,US,Philadelphia,39.95238,-75.16362,2026,2
 The University of Queensland,AU,Brisbane,-27.46794,153.02809,2026,2
@@ -786,12 +813,14 @@ West Virginia University,US,Morgantown,39.62953,-79.9559,2025,2
 Zhejiang University,CN,Hangzhou,30.29365,120.16142,2025,2
 Lyon 1 Université,FR,Villeurbanne,45.76601,4.8795,2025,2
 University of Delaware,US,Newark,39.68372,-75.74966,2025,2
+University of Alabama at Birmingham,US,Birmingham,33.52066,-86.80249,2025,2
 Fondation Asile des Aveugles,CH,Lausanne,46.52552032470703,6.622830867767334,2025,2
 Netherlands Institute for Neuroscience,NL,Amsterdam,52.37403106689453,4.889689922332764,2025,2
 Linköping University,SE,Linköping,58.41086,15.62157,2025,2
 New York State Psychiatric Institute,US,Manhattan,40.78342819213867,-73.96624755859375,2025,2
 Peking University,CN,Beijing,39.9075,116.39723,2025,2
 The University of Texas MD Anderson Cancer Center,US,Houston,29.76328,-95.36327,2025,2
+"University of California, Davis",US,Davis,38.54491,-121.74052,2025,2
 James J. Peters VA Medical Center,US,New York,40.71427,-74.00597,2025,2
 University of Coimbra,PT,Coimbra,40.20686,-8.41996,2025,2
 Princeton University,US,Princeton,40.34872,-74.65905,2025,2
@@ -803,6 +832,7 @@ University of Cambridge,GB,Cambridge,52.2,0.11667,2025,2
 University of Florida,US,Gainesville,29.65163,-82.32483,2025,2
 "Rutgers, The State University of New Jersey",US,New Brunswick,40.48622,-74.45182,2025,2
 Beijing Normal University,CN,Beijing,39.9075,116.39723,2025,2
+Korea University,KR,Seoul,37.566,126.9784,2025,2
 Barrow Neurological Institute,US,Phoenix,33.44838,-112.07404,2025,2
 The University of Texas at Austin,US,Austin,30.26715,-97.74306,2025,2
 Kunming Institute of Zoology,CN,Kunming,25.038890838623047,102.71833038330078,2025,2
@@ -816,6 +846,7 @@ Max Planck Institute for Human Development,DE,Berlin,52.52436828613281,13.410530
 University of Illinois Urbana-Champaign,US,Urbana,40.11059,-88.20727,2025,2
 Cleveland Clinic,US,Cleveland,41.4995,-81.69541,2025,2
 Max Planck Institute for Human Cognitive and Brain Sciences,DE,Leipzig,51.33573532104492,12.388835906982422,2025,2
+Shenzhen University,CN,Shenzhen,22.54554,114.0683,2025,2
 Mortimer B. Zuckerman Mind Brain Behavior Institute,US,New York,40.71427,-74.00597,2025,2
 Indiana University Indianapolis,US,Indianapolis,39.76838,-86.15804,2025,2
 The Ohio State University Wexner Medical Center,US,Columbus,39.96118,-82.99879,2025,2
@@ -827,6 +858,7 @@ First Affiliated Hospital Zhejiang University,CN,Hangzhou,30.257551193237305,120
 University of Edinburgh,GB,Edinburgh,55.95206,-3.19648,2025,2
 University of Florida Health,US,Gainesville,29.65163,-82.32483,2025,2
 Second Affiliated Hospital of Zhejiang University,CN,Hangzhou,30.25167465209961,120.17648315429688,2025,2
+Cleveland Clinic,US,Cleveland,41.4995,-81.69541,2024,2
 Scuola Internazionale Superiore di Studi Avanzati,IT,Trieste,45.64952850341797,13.776780128479004,2024,2
 Ruhr University Bochum,DE,Bochum,51.48165,7.21648,2024,2
 University of Florida,US,Gainesville,29.65163,-82.32483,2024,2
@@ -835,7 +867,6 @@ University of Delaware,US,Newark,39.68372,-75.74966,2024,2
 San Diego State University,US,San Diego,32.7157096862793,-117.16471862792969,2024,2
 Queen's University,CA,Kingston,44.22976,-76.48098,2024,2
 University of Iowa,US,Iowa City,41.66113,-91.53017,2024,2
-University of Southern California,US,Los Angeles,34.05223,-118.24368,2024,2
 National University of Singapore,SG,Singapore,1.28967,103.85007,2024,2
 "University of California, Berkeley",US,Berkeley,37.87159,-122.27275,2024,2
 "University of Maryland, College Park",US,College Park,38.98067,-76.93692,2024,2
@@ -846,9 +877,10 @@ University of York,GB,York,53.95763,-1.08271,2024,2
 Instituto de Salud Carlos III,ES,Madrid,40.4165,-3.70256,2024,2
 Max Planck Institute for Human Cognitive and Brain Sciences,DE,Leipzig,51.33573532104492,12.388835906982422,2024,2
 Cedars-Sinai Medical Center,US,Los Angeles,34.05223,-118.24368,2024,2
-Stanford Medicine,US,Stanford,37.42411,-122.16608,2024,2
 Boston University,US,Boston,42.35843,-71.05977,2024,2
 Oregon Health & Science University,US,Portland,45.5234489440918,-122.67620849609375,2024,2
+University of Illinois Chicago,US,Chicago,41.85003,-87.65005,2024,2
+SRI International,US,Menlo Park,37.45383,-122.18219,2024,2
 Virginia Commonwealth University,US,Richmond,37.55376,-77.46026,2024,2
 University of Washington,US,Seattle,47.60621,-122.33207,2024,2
 Humboldt-Universität zu Berlin,DE,Berlin,52.52437,13.41053,2024,2
@@ -870,11 +902,9 @@ Columbia University,US,New York,40.71427,-74.00597,2024,2
 Peking University,CN,Beijing,39.9075,116.39723,2024,2
 Princeton University,US,Princeton,40.34872,-74.65905,2024,2
 University of Kentucky,US,Lexington,37.98869,-84.47772,2024,2
-Shanghai Medical College of Fudan University,CN,Shanghai,31.222219467163086,121.45806121826172,2024,2
 The University of Sydney,AU,Sydney,-33.86785,151.20732,2024,2
 Capital Medical University,CN,Beijing,39.9075,116.39723,2024,2
 University Medical Center Groningen,NL,Groningen,53.21917,6.56667,2024,2
-University of Cape Town,ZA,Rondebosch,-33.96333,18.47639,2024,2
 University of Miami,US,Coral Gables,25.72149,-80.26838,2024,2
 University of Nottingham,GB,Nottingham,52.9536,-1.15047,2024,2
 University of Alabama at Birmingham,US,Birmingham,33.52066,-86.80249,2024,2
@@ -904,10 +934,10 @@ St. Michael's Hospital,CA,Toronto,43.70642852783203,-79.39864349365234,2023,2
 University of South Carolina,US,Columbia,34.00071,-81.03481,2023,2
 Iowa State University,US,Ames,42.03471,-93.61994,2023,2
 Centre for Addiction and Mental Health,CA,Toronto,43.70643,-79.39864,2023,2
+University of Trento,IT,Trento,46.06787109375,11.12108039855957,2023,2
 Columbia University Irving Medical Center,US,New York,40.71427,-74.00597,2023,2
 University of Illinois Chicago,US,Chicago,41.85003,-87.65005,2023,2
 Peking University,CN,Beijing,39.9075,116.39723,2023,2
-University of Calgary,CA,Calgary,51.05011,-114.08529,2023,2
 Oregon Health & Science University,US,Portland,45.5234489440918,-122.67620849609375,2023,2
 Deakin University,AU,Burwood,-37.84978,145.11901,2023,2
 Affiliated Hospital of Qingdao University,CN,Qingdao,36.07022476196289,120.3277816772461,2023,2
@@ -930,8 +960,10 @@ National Institute of Mental Health,US,Bethesda,38.98067,-77.10026,2023,2
 Oulu University Hospital,FI,Oulu,65.01235961914062,25.46816062927246,2023,2
 Douglas Mental Health University Institute,CA,Montreal,45.50883865356445,-73.58780670166016,2023,2
 "University of California, Irvine",US,Irvine,33.66946,-117.82311,2023,2
+University of Copenhagen,DK,Copenhagen,55.67594,12.56553,2023,2
 The University of Queensland,AU,Brisbane,-27.46794,153.02809,2023,2
 Carl von Ossietzky Universität Oldenburg,DE,Oldenburg,53.14039,8.21479,2023,2
+California Institute of Technology,US,Pasadena,34.14778,-118.14452,2023,2
 University of Delaware,US,Newark,39.68372,-75.74966,2023,2
 Jena University Hospital,DE,Jena,50.92878,11.5899,2023,2
 Northeastern University,US,Boston,42.35843,-71.05977,2023,2
@@ -946,6 +978,7 @@ Stanford University,US,Stanford,37.42411,-122.16608,2022,2
 "University of California, San Francisco",US,San Francisco,37.77493,-122.41942,2022,2
 Taipei Medical University-Shuang Ho Hospital,TW,Taipei,25.047760009765625,121.53185272216797,2022,2
 Max Planck Institute for Human Cognitive and Brain Sciences,DE,Leipzig,51.33573532104492,12.388835906982422,2022,2
+SRI International,US,Menlo Park,37.45383,-122.18219,2022,2
 University of Chicago,US,Chicago,41.85003,-87.65005,2022,2
 Cornell University,US,Ithaca,42.44063,-76.49661,2022,2
 Massachusetts Eye and Ear Infirmary,US,Boston,42.35843,-71.05977,2022,2
@@ -970,6 +1003,7 @@ University of Oregon,US,Eugene,44.05207,-123.08675,2022,2
 Humboldt-Universität zu Berlin,DE,Berlin,52.52437,13.41053,2022,2
 University of Chieti-Pescara,IT,Chieti,42.348270416259766,14.164939880371094,2022,2
 University Hospital Bonn,DE,Bonn,50.73438,7.09549,2022,2
+Oregon Health & Science University,US,Portland,45.5234489440918,-122.67620849609375,2022,2
 University College London,GB,London,51.50853,-0.12574,2022,2
 "University of California, Berkeley",US,Berkeley,37.87159,-122.27275,2022,2
 SUNY Downstate Health Sciences University,US,Brooklyn,40.6501,-73.94958,2022,2
@@ -987,6 +1021,7 @@ Seoul National University,KR,Seoul,37.566,126.9784,2021,2
 University of Glasgow,GB,Glasgow,55.86515,-4.25763,2021,2
 Vanderbilt University Medical Center,US,Nashville,36.16589,-86.78444,2021,2
 Centre National de la Recherche Scientifique,FR,Paris,48.85341,2.3488,2021,2
+Ikerbasque,ES,Bilbao,43.26271,-2.92528,2021,2
 Centre for Addiction and Mental Health,CA,Toronto,43.70643,-79.39864,2021,2
 University of Nebraska Medical Center,US,Omaha,41.25626,-95.94043,2021,2
 Michigan State University,US,East Lansing,42.73698,-84.48387,2021,2
@@ -994,15 +1029,17 @@ The University of Texas at Austin,US,Austin,30.26715,-97.74306,2021,2
 Medical University of Vienna,AT,Vienna,48.20849,16.37208,2021,2
 Spinoza Centre for Neuroimaging,NL,Amsterdam,52.37403106689453,4.889689922332764,2021,2
 Brown University,US,Providence,41.82399,-71.41283,2021,2
-"University of California, Riverside",US,Riverside,33.95335,-117.39616,2021,2
 Haskins Laboratories,US,New Haven,41.30512237548828,-72.93131256103516,2021,2
 Linköping University,SE,Linköping,58.41086,15.62157,2021,2
 Mind Research Network,US,Albuquerque,35.09520721435547,-106.6213607788086,2021,2
 NYU Langone Health,US,New York,40.71427,-74.00597,2021,2
-University of Iowa,US,Iowa City,41.66113,-91.53017,2021,2
+University of Nebraska–Lincoln,US,Lincoln,40.8,-96.66696,2021,2
+University of Kentucky,US,Lexington,37.98869,-84.47772,2021,2
 Massachusetts General Hospital,US,Boston,42.35843,-71.05977,2021,2
 University of Miami,US,Coral Gables,25.72149,-80.26838,2021,2
 University of Denver,US,Denver,39.73915,-104.9847,2021,2
+Oregon Health & Science University,US,Portland,45.5234489440918,-122.67620849609375,2021,2
+Loma Linda University Medical Center,US,Loma Linda,34.0525016784668,-117.26416778564453,2021,2
 Oulu University Hospital,FI,Oulu,65.01235961914062,25.46816062927246,2021,2
 Houston Methodist,US,Houston,29.76328,-95.36327,2021,2
 University of Padua,IT,Padua,45.40797,11.88586,2021,2
@@ -1031,16 +1068,19 @@ Virginia Commonwealth University,US,Richmond,37.55376,-77.46026,2021,2
 "University of California, Irvine",US,Irvine,33.66946,-117.82311,2021,2
 "Rutgers, The State University of New Jersey",US,New Brunswick,40.48622,-74.45182,2021,2
 Northeastern University,US,Boston,42.35843,-71.05977,2020,2
+University Health Network,CA,Toronto,43.70643,-79.39864,2020,2
 Carnegie Mellon University,US,Pittsburgh,40.44062,-79.99589,2020,2
 Johns Hopkins University,US,Baltimore,39.29038,-76.61219,2020,2
+Massachusetts Eye and Ear Infirmary,US,Boston,42.35843,-71.05977,2020,2
 University of Missouri–St. Louis,US,St Louis,38.62727,-90.19789,2020,2
-University of Southern California,US,Los Angeles,34.05223,-118.24368,2020,2
+SRI International,US,Menlo Park,37.45383,-122.18219,2020,2
 Dartmouth College,US,Hanover,43.70229,-72.28954,2020,2
 Columbia University Irving Medical Center,US,New York,40.71427,-74.00597,2020,2
 McGill University,CA,Montreal,45.50884,-73.58781,2020,2
 Rutgers Health,US,Newark,40.73566,-74.17237,2020,2
 University of Chieti-Pescara,IT,Chieti,42.348270416259766,14.164939880371094,2020,2
 University of Wisconsin–Milwaukee,US,Milwaukee,43.0389,-87.90647,2020,2
+National Institute of Neurological Disorders and Stroke,US,Bethesda,39.00382614135742,-77.10118103027344,2020,2
 University of Chicago,US,Chicago,41.85003,-87.65005,2020,2
 University of Kansas,US,Lawrence,38.97167,-95.23525,2020,2
 Georgetown University,US,Washington,38.89511,-77.03637,2020,2
@@ -1059,6 +1099,7 @@ California Institute of Technology,US,Pasadena,34.14778,-118.14452,2020,2
 University of Salzburg,AT,Salzburg,47.79941,13.04399,2020,2
 University of Electronic Science and Technology of China,CN,Chengdu,30.66667,104.06667,2020,2
 Stanford Medicine,US,Stanford,37.42411,-122.16608,2020,2
+Cornell University,US,Ithaca,42.44063,-76.49661,2020,2
 Beijing Normal University,CN,Beijing,39.9075,116.39723,2020,2
 Chinese University of Hong Kong,HK,Hong Kong,22.27832,114.17469,2020,2
 Yonsei University,KR,Seoul,37.566,126.9784,2020,2
@@ -1066,18 +1107,21 @@ The University of Texas MD Anderson Cancer Center,US,Houston,29.76328,-95.36327,
 "Basque Center on Cognition, Brain and Language",ES,Donostia / San Sebastian,43.31283187866211,-1.9749900102615356,2020,2
 Michigan State University,US,East Lansing,42.73698,-84.48387,2020,2
 Boys Town National Research Hospital,US,Omaha,41.25626,-95.94043,2020,2
+Max Planck Institute for Human Cognitive and Brain Sciences,DE,Leipzig,51.33573532104492,12.388835906982422,2020,2
 National Institute of Mental Health,US,Bethesda,38.98067,-77.10026,2020,2
 University Medical Center Utrecht,NL,Utrecht,52.09083,5.12222,2020,2
 Ikerbasque,ES,Bilbao,43.26271,-2.92528,2020,2
 West Virginia University,US,Morgantown,39.62953,-79.9559,2020,2
+Henry M. Jackson Foundation,US,Bethesda,38.98067,-77.10026,2020,2
 Utrecht University,NL,Utrecht,52.09083,5.12222,2020,2
+The University of Melbourne,AU,Melbourne,-37.814,144.96332,2020,2
 University Medical Center Groningen,NL,Groningen,53.21917,6.56667,2020,2
 University of South Carolina,US,Columbia,34.00071,-81.03481,2020,2
 United States Department of Veterans Affairs,US,Washington,38.89511,-77.03637,2020,2
 Inner Mongolia University of Science and Technology,CN,Baotou,40.6516,109.84389,2020,2
 The University of Tokyo,JP,Tokyo,35.6895,139.69171,2020,2
-Capital Medical University,CN,Beijing,39.9075,116.39723,2020,2
 New Jersey Institute of Technology,US,Newark,40.73566,-74.17237,2020,2
+Asan Medical Center,KR,Seoul,37.566,126.9784,2020,2
 Centre for Addiction and Mental Health,CA,Toronto,43.70643,-79.39864,2020,2
 Memorial Hermann,US,Houston,29.76328,-95.36327,2019,2
 Stanford Medicine,US,Stanford,37.42411,-122.16608,2019,2
@@ -1093,12 +1137,13 @@ Weill Cornell Medicine,US,New York,40.71427,-74.00597,2019,2
 Florida International University,US,Miami,25.77427,-80.19366,2019,2
 Samsung Medical Center,KR,Seoul,37.566,126.9784,2019,2
 University of Salzburg,AT,Salzburg,47.79941,13.04399,2019,2
+University of Oregon,US,Eugene,44.05207,-123.08675,2019,2
 Houston Methodist,US,Houston,29.76328,-95.36327,2019,2
 McGill University,CA,Montreal,45.50884,-73.58781,2019,2
-Oregon Health & Science University,US,Portland,45.5234489440918,-122.67620849609375,2019,2
 Universidade Federal Fluminense,BR,Niterói,-22.88333,-43.10361,2019,2
 Purdue University West Lafayette,US,West Lafayette,40.42587,-86.90807,2019,2
 South China Normal University,CN,Guangzhou,23.116670608520508,113.25,2019,2
+The Ohio State University,US,Columbus,39.96118,-82.99879,2019,2
 University of Zurich,CH,Zurich,47.36667,8.55,2019,2
 Italian Institute of Technology,IT,Genoa,44.40478,8.94439,2019,2
 SRI International,US,Menlo Park,37.45383,-122.18219,2019,2
@@ -1108,9 +1153,10 @@ Newcastle University,GB,Newcastle upon Tyne,54.97328,-1.61396,2019,2
 Brigham and Women's Hospital,US,Boston,42.35843,-71.05977,2019,2
 University of Utah,US,Salt Lake City,40.76078,-111.89105,2019,2
 University of Chicago,US,Chicago,41.85003,-87.65005,2019,2
+Seoul National University,KR,Seoul,37.566,126.9784,2019,2
+St Thomas' Hospital,GB,London,51.498817443847656,-0.11910080909729004,2019,2
 Second Affiliated Hospital of Zhejiang University,CN,Hangzhou,30.25167465209961,120.17648315429688,2019,2
 University of Oslo,NO,Oslo,59.91273,10.74609,2019,2
-National Institute of Neurological Disorders and Stroke,US,Bethesda,39.00382614135742,-77.10118103027344,2019,2
 Texas Tech University,US,Lubbock,33.57786,-101.85517,2019,2
 Queen's University,CA,Kingston,44.22976,-76.48098,2019,2
 "University of Nevada, Reno",US,Reno,39.52963,-119.8138,2019,2
@@ -1120,7 +1166,6 @@ King's College London,GB,London,51.50853,-0.12574,2018,2
 University of Oregon,US,Eugene,44.05207,-123.08675,2018,2
 National Institute of Mental Health,US,Bethesda,38.98067,-77.10026,2018,2
 Nathan Kline Institute for Psychiatric Research,US,Orangeburg,41.049617767333984,-73.96810913085938,2018,2
-"University of California, San Francisco",US,San Francisco,37.77493,-122.41942,2018,2
 University of Miami,US,Coral Gables,25.72149,-80.26838,2018,2
 Chinese Academy of Sciences,CN,Beijing,39.9075,116.39723,2018,2
 Elmhurst Hospital Center,US,Borough of Queens,40.7447624206543,-73.88636779785156,2018,2
@@ -1143,26 +1188,27 @@ Medical University of South Carolina,US,Charleston,32.77632,-79.93275,2018,2
 Shanghai Jiao Tong University,CN,Shanghai,31.22222,121.45806,2018,2
 University of Calgary,CA,Calgary,51.05011,-114.08529,2018,2
 St. Michael's Hospital,CA,Toronto,43.70642852783203,-79.39864349365234,2018,2
+Georgia State University,US,Atlanta,33.749,-84.38798,2018,2
 Western University,CA,London,42.98339,-81.23304,2018,2
 Cedars-Sinai Medical Center,US,Los Angeles,34.05223,-118.24368,2018,2
-SRI International,US,Menlo Park,37.45383,-122.18219,2018,2
 University of Reading,GB,Reading,51.45624923706055,-0.9711300134658813,2018,2
 University of Modena and Reggio Emilia,IT,Modena,44.64783,10.92539,2018,2
 Centre National de la Recherche Scientifique,FR,Paris,48.85341,2.3488,2018,2
 Tongde Hospital of Zhejiang Province,CN,Hangzhou,30.28409767150879,120.11943054199219,2018,2
+First Hospital of China Medical University,CN,Shenyang,41.79222,123.43278,2018,2
 University of Alabama at Birmingham,US,Birmingham,33.52066,-86.80249,2017,2
 Vanderbilt University,US,Nashville,36.16589,-86.78444,2017,2
+National Institute of Neurological Disorders and Stroke,US,Bethesda,39.00382614135742,-77.10118103027344,2017,2
 Nathan Kline Institute for Psychiatric Research,US,Orangeburg,41.049617767333984,-73.96810913085938,2017,2
 Douglas Mental Health University Institute,CA,Montreal,45.50883865356445,-73.58780670166016,2017,2
 Utrecht University,NL,Utrecht,52.09083,5.12222,2017,2
 The University of Texas at Austin,US,Austin,30.26715,-97.74306,2017,2
 University College London,GB,London,51.50853,-0.12574,2017,2
 University of Illinois Urbana-Champaign,US,Urbana,40.11059,-88.20727,2017,2
-University of Rochester Medicine,US,Rochester,43.15478,-77.61556,2017,2
+University Health Network,CA,Toronto,43.70643,-79.39864,2017,2
 Imperial College London,GB,London,51.50853,-0.12574,2017,2
 University of Florida Health,US,Gainesville,29.65163,-82.32483,2017,2
 University of Oregon,US,Eugene,44.05207,-123.08675,2017,2
-Zhongda Hospital Southeast University,CN,Nanjing,32.07139587402344,118.77664947509766,2017,2
 University of Arkansas for Medical Sciences,US,Little Rock,34.74648,-92.28959,2017,2
 University of Chieti-Pescara,IT,Chieti,42.348270416259766,14.164939880371094,2017,2
 Ghent University,BE,Ghent,51.05,3.71667,2017,2
@@ -1171,6 +1217,7 @@ University of Zurich,CH,Zurich,47.36667,8.55,2017,2
 Massachusetts Institute of Technology,US,Cambridge,42.3751,-71.10561,2017,2
 King's College London,GB,London,51.50853,-0.12574,2017,2
 Seoul National University,KR,Seoul,37.566,126.9784,2017,2
+The University of Texas at Dallas,US,Richardson,32.94818,-96.72972,2017,2
 Beijing Normal University,CN,Beijing,39.9075,116.39723,2017,2
 "University of California, Riverside",US,Riverside,33.95335,-117.39616,2017,2
 Xidian University,CN,Xi'an,34.258331298828125,108.9286117553711,2017,2
@@ -1193,6 +1240,7 @@ University of Florida Health,US,Gainesville,29.65163,-82.32483,2016,2
 University of Cincinnati,US,Cincinnati,39.12711,-84.51439,2016,2
 National Institute on Drug Abuse,US,Bethesda,38.984596252441406,-77.09712219238281,2016,2
 "University of Maryland, Baltimore",US,Baltimore,39.29038,-76.61219,2016,2
+"Agency for Science, Technology and Research",SG,Singapore,1.28967,103.85007,2016,2
 Chinese Academy of Sciences,CN,Beijing,39.9075,116.39723,2016,2
 "University of California, Berkeley",US,Berkeley,37.87159,-122.27275,2016,2
 University of Illinois Chicago,US,Chicago,41.85003,-87.65005,2016,2
@@ -1227,6 +1275,7 @@ The University of Texas at Austin,US,Austin,30.26715,-97.74306,2015,2
 University of Trento,IT,Trento,46.06787109375,11.12108039855957,2015,2
 University of Arizona,US,Tucson,32.22174,-110.92648,2015,2
 "University of Nevada, Reno",US,Reno,39.52963,-119.8138,2015,2
+University Health Network,CA,Toronto,43.70643,-79.39864,2015,2
 University of New Mexico,US,Albuquerque,35.08449,-106.65114,2015,2
 "University of California, San Francisco",US,San Francisco,37.77493,-122.41942,2015,2
 Capital Medical University,CN,Beijing,39.9075,116.39723,2015,2
@@ -1267,7 +1316,6 @@ University of Cincinnati,US,Cincinnati,39.12711,-84.51439,2014,2
 Max Planck Society,DE,Munich,48.13743,11.57549,2014,2
 Institute of Basic Medical Sciences of the Chinese Academy of Medical Sciences,CN,Beijing,39.907501220703125,116.39723205566406,2014,2
 University of Michigan,US,Ann Arbor,42.27756,-83.74088,2014,2
-University of Toronto,CA,Toronto,43.70643,-79.39864,2014,2
 University of Arizona,US,Tucson,32.22174,-110.92648,2014,2
 Rush University Medical Center,US,Chicago,41.85003,-87.65005,2014,2
 University of British Columbia,CA,Vancouver,49.24966,-123.11934,2014,2
@@ -1292,7 +1340,9 @@ Augusta University,US,Augusta,33.47097,-81.97484,2014,2
 Wellcome Centre for Human Neuroimaging,GB,London,51.522178649902344,-0.12220299988985062,2013,2
 Cardiff University,GB,Cardiff,51.48,-3.18,2013,2
 "University of California, Los Angeles",US,Los Angeles,34.05223,-118.24368,2013,2
+University of Wisconsin–Milwaukee,US,Milwaukee,43.0389,-87.90647,2013,2
 Georgia Institute of Technology,US,Atlanta,33.749,-84.38798,2013,2
+University of Colorado Boulder,US,Boulder,40.01499,-105.27055,2013,2
 Beth Israel Deaconess Medical Center,US,Boston,42.339786529541016,-71.10518646240234,2013,2
 Center for the Neural Basis of Cognition,US,Pittsburgh,40.44613265991211,-79.95320892333984,2013,2
 Northwestern University,US,Evanston,42.04114,-87.69006,2013,2
@@ -1316,7 +1366,6 @@ Cincinnati Children's Hospital Medical Center,US,Cincinnati,39.12711,-84.51439,2
 University of British Columbia,CA,Vancouver,49.24966,-123.11934,2013,2
 Kessler Foundation,US,West Orange,40.79871,-74.23904,2013,2
 Cleveland Clinic,US,Cleveland,41.4995,-81.69541,2013,2
-"University of Maryland, Baltimore",US,Baltimore,39.29038,-76.61219,2012,2
 "University of California, Irvine",US,Irvine,33.66946,-117.82311,2012,2
 University College London,GB,London,51.50853,-0.12574,2012,2
 Johns Hopkins University,US,Baltimore,39.29038,-76.61219,2012,2
@@ -1371,9 +1420,11 @@ Logan University,US,Chesterfield,38.66311,-90.57707,2009,2
 University of Cincinnati,US,Cincinnati,39.12711,-84.51439,2009,2
 Purdue University West Lafayette,US,West Lafayette,40.42587,-86.90807,2009,2
 Mind Research Network,US,Albuquerque,35.09520721435547,-106.6213607788086,2009,2
+University of Pennsylvania,US,Philadelphia,39.95238,-75.16362,2009,2
 University of Chicago,US,Chicago,41.85003,-87.65005,2009,2
 Mind Research Network,US,Albuquerque,35.09520721435547,-106.6213607788086,2008,2
 Oregon Health & Science University,US,Portland,45.5234489440918,-122.67620849609375,2008,2
+Marquette University,US,Milwaukee,43.0389,-87.90647,2008,2
 Kennedy Krieger Institute,US,Baltimore,39.29038,-76.61219,2008,2
 Emory University,US,Atlanta,33.749,-84.38798,2008,2
 Tufts University,US,Medford,42.41843,-71.10616,2008,2
@@ -1391,6 +1442,7 @@ Medical College of Wisconsin,US,Milwaukee,43.03889846801758,-87.9064712524414,20
 San Diego State University,US,San Diego,32.7157096862793,-117.16471862792969,2006,2
 University of Medicine and Dentistry of New Jersey,US,Newark,40.73566,-74.17237,2006,2
 Princeton University,US,Princeton,40.34872,-74.65905,2005,2
+University of California San Diego,US,San Diego,32.71571,-117.16472,2005,2
 University of California San Diego,US,San Diego,32.71571,-117.16472,2004,2
 The University of Texas MD Anderson Cancer Center,US,Houston,29.76328,-95.36327,2026,1
 Taipei Medical University,TW,Taipei,25.05306,121.52639,2026,1
@@ -1430,13 +1482,14 @@ Jinan University,CN,Guangzhou,23.11667,113.25,2026,1
 National Yang Ming Chiao Tung University,TW,Hsinchu,24.80361,120.96861,2026,1
 South China Normal University,CN,Guangzhou,23.116670608520508,113.25,2026,1
 Carl von Ossietzky Universität Oldenburg,DE,Oldenburg,53.14039,8.21479,2026,1
+Mortimer B. Zuckerman Mind Brain Behavior Institute,US,New York,40.71427,-74.00597,2026,1
+University of Cambridge,GB,Cambridge,52.2,0.11667,2026,1
 Nanchang University,CN,Nanchang,28.68396,115.85306,2026,1
 National Institutes for Quantum Science and Technology,JP,Chiba,35.6,140.11667,2026,1
 University of Rochester Medicine,US,Rochester,43.15478,-77.61556,2026,1
 Mind Research Network,US,Albuquerque,35.09520721435547,-106.6213607788086,2026,1
 University of Vermont,US,Burlington,44.47588,-73.21207,2026,1
 University of Illinois Chicago,US,Chicago,41.85003,-87.65005,2026,1
-Cardiff University,GB,Cardiff,51.48,-3.18,2026,1
 The University of Melbourne,AU,Melbourne,-37.814,144.96332,2026,1
 KU Leuven,BE,Leuven,50.87959,4.70093,2026,1
 Cedars-Sinai Medical Center,US,Los Angeles,34.05223,-118.24368,2026,1
@@ -1467,9 +1520,11 @@ University of Georgia,US,Athens,33.96095,-83.37794,2026,1
 Hospital for Sick Children,CA,Toronto,43.70643,-79.39864,2026,1
 IMT School for Advanced Studies Lucca,IT,Lucca,43.84369,10.50447,2026,1
 Université de Sherbrooke,CA,Sherbrooke,45.40008,-71.89908,2026,1
+Nanjing First Hospital,CN,Nanjing,32.06167,118.77778,2026,1
 MedStar National Rehabilitation Hospital,US,Washington D.C.,38.93080139160156,-77.013671875,2026,1
 Icahn School of Medicine at Mount Sinai,US,New York,40.71427,-74.00597,2026,1
 Hasselt University,BE,Hasselt,50.93106,5.33781,2026,1
+Hangzhou Seventh Peoples Hospital,CN,Hangzhou,30.270212173461914,120.1134033203125,2026,1
 Scuola Internazionale Superiore di Studi Avanzati,IT,Trieste,45.64952850341797,13.776780128479004,2026,1
 Douglas Mental Health University Institute,CA,Montreal,45.50883865356445,-73.58780670166016,2026,1
 "Queens College, CUNY",US,New York,40.714271545410156,-74.00596618652344,2026,1
@@ -1482,13 +1537,13 @@ Children's National,US,Washington,38.89511,-77.03637,2026,1
 Bishop's University,CA,Sherbrooke,45.400081634521484,-71.89907836914062,2026,1
 "University of California, Los Angeles",US,Los Angeles,34.05223,-118.24368,2026,1
 Iran University of Science and Technology,IR,Tehran,35.69439,51.42151,2026,1
-Linköping University,SE,Linköping,58.41086,15.62157,2026,1
 University of Coimbra,PT,Coimbra,40.20686,-8.41996,2026,1
 University of Nebraska Medical Center,US,Omaha,41.25626,-95.94043,2026,1
 Harvard University,US,Cambridge,42.3751,-71.10561,2026,1
 University of Arkansas for Medical Sciences,US,Little Rock,34.74648,-92.28959,2026,1
 University of Florida Health,US,Gainesville,29.65163,-82.32483,2026,1
 University of Regensburg,DE,Regensburg,49.01512908935547,12.10161018371582,2026,1
+Texas Health Dallas,US,Dallas,32.88100051879883,-96.76300048828125,2026,1
 Lingnan Normal University,CN,Zhanjiang,21.23391,110.38749,2026,1
 Hanyang University Guri Hospital,KR,Guri-si,37.5986,127.1394,2026,1
 University of Macau,MO,Macao,22.20056,113.54611,2026,1
@@ -1496,7 +1551,8 @@ University of Delaware,US,Newark,39.68372,-75.74966,2026,1
 Marquette University,US,Milwaukee,43.0389,-87.90647,2026,1
 Chengdu Sport University,CN,Chengdu,30.66667,104.06667,2026,1
 Barcelona Supercomputing Center,ES,Barcelona,41.38879,2.15899,2026,1
-Loma Linda University,US,Loma Linda,34.0483512878418,-117.26114654541016,2026,1
+University of Verona,IT,Verona,45.43854,10.9938,2026,1
+Nanjing Brain Hospital,CN,Nanjing,32.04991912841797,118.7699203491211,2026,1
 First Affiliated Hospital of Zhengzhou University,CN,Zhengzhou,34.75777816772461,113.64861297607422,2026,1
 University of Iowa,US,Iowa City,41.66113,-91.53017,2026,1
 University of California System,US,Oakland,37.80437,-122.2708,2026,1
@@ -1515,6 +1571,7 @@ Neuroelectrics Barcelona SLU (Spain),ES,Barcelona,41.38879,2.15899,2026,1
 Brigham and Women's Hospital,US,Boston,42.35843,-71.05977,2026,1
 University of Wisconsin–Milwaukee,US,Milwaukee,43.0389,-87.90647,2026,1
 Indiana University Bloomington,US,Bloomington,39.16533,-86.52639,2026,1
+University of Bonn,DE,Bonn,50.73438,7.09549,2026,1
 Medical University of Lodz,PL,Lodz,51.77058029174805,19.473949432373047,2026,1
 University of Oklahoma Health Sciences Center,US,Oklahoma City,35.46756,-97.51643,2026,1
 Changzhou No.2 People's Hospital,CN,Changzhou,31.77359,119.95401,2026,1
@@ -1542,11 +1599,11 @@ UCLouvain,BE,Louvain-la-Neuve,50.66829,4.61443,2025,1
 Massachusetts Institute of Technology,US,Cambridge,42.3751,-71.10561,2025,1
 University of Pavia,IT,Pavia,45.19205,9.15917,2025,1
 Jagiellonian University,PL,Krakow,50.06143,19.93658,2025,1
+Zhejiang Normal University,CN,Jinhua,29.106779098510742,119.64421081542969,2025,1
 City University of Hong Kong,HK,Hong Kong,22.27832,114.17469,2025,1
 Sichuan Normal University,CN,Chengdu,30.666669845581055,104.0666732788086,2025,1
 Wenzhou Medical University,CN,Wenzhou,27.99942,120.66682,2025,1
 Bilkent University,TR,Ankara,39.91986846923828,32.854270935058594,2025,1
-"University of California, Davis",US,Davis,38.54491,-121.74052,2025,1
 NTT (Japan),JP,Tokyo,35.68952560424805,139.75344848632812,2025,1
 Tulane University,US,New Orleans,29.95465,-90.07507,2025,1
 University of Freiburg,DE,Freiburg im Breisgau,47.9959,7.85222,2025,1
@@ -1567,7 +1624,7 @@ University of Southern California,US,Los Angeles,34.05223,-118.24368,2025,1
 Universidade Federal do Rio Grande do Sul,BR,Porto Alegre,-30.03283,-51.23019,2025,1
 University of Turku,FI,Turku,60.45148,22.26869,2025,1
 Wayne State University,US,Detroit,42.33143,-83.04575,2025,1
-Korea University,KR,Seoul,37.566,126.9784,2025,1
+Oregon National Primate Research Center,US,Beaverton,45.52400588989258,-122.87482452392578,2025,1
 University of Birmingham,GB,Birmingham,52.48142,-1.89983,2025,1
 University of Florence,IT,Florence,43.77925,11.24626,2025,1
 University of Missouri,US,Columbia,38.95171,-92.33407,2025,1
@@ -1578,6 +1635,7 @@ Lund University,SE,Lund,55.70584,13.19321,2025,1
 The University of Tokyo,JP,Tokyo,35.6895,139.69171,2025,1
 Nanjing First Hospital,CN,Nanjing,32.06167,118.77778,2025,1
 Kyoto University,JP,Kyoto,35.02107,135.75385,2025,1
+National Institutes for Quantum Science and Technology,JP,Chiba,35.6,140.11667,2025,1
 Centro Ricerche Enrico Fermi,IT,Rome,41.89193,12.51133,2025,1
 University of Nebraska Medical Center,US,Omaha,41.25626,-95.94043,2025,1
 Tel Aviv University,IL,Tel Aviv,32.08088,34.78057,2025,1
@@ -1590,16 +1648,17 @@ Chonnam National University,KR,Gwangju,35.15472,126.91556,2025,1
 SUNY Downstate Health Sciences University,US,Brooklyn,40.6501,-73.94958,2025,1
 Korea Brain Research Institute,KR,Daegu,35.87028121948242,128.5911102294922,2025,1
 Southwest University,CN,Chongqing,29.560260772705078,106.55770874023438,2025,1
+All India Institute of Medical Sciences,IN,New Delhi,28.62137,77.2148,2025,1
 Albert Einstein College of Medicine,US,Bronx,40.84985,-73.86641,2025,1
 Shandong University of Traditional Chinese Medicine,CN,Jinan,36.668331146240234,116.99722290039062,2025,1
 Biomedical Research Networking Center on Neurodegenerative Diseases,ES,Madrid,40.4165,-3.70256,2025,1
 PLA Information Engineering University,CN,Zhengzhou,34.75777816772461,113.64861297607422,2025,1
-University of Alabama at Birmingham,US,Birmingham,33.52066,-86.80249,2025,1
 University of Colorado Anschutz,US,Aurora,39.72943,-104.83192,2025,1
 Oregon Health & Science University,US,Portland,45.5234489440918,-122.67620849609375,2025,1
 The University of Melbourne,AU,Melbourne,-37.814,144.96332,2025,1
 Jena University Hospital,DE,Jena,50.92878,11.5899,2025,1
 Douglas Mental Health University Institute,CA,Montreal,45.50883865356445,-73.58780670166016,2025,1
+Texas Health Dallas,US,Dallas,32.88100051879883,-96.76300048828125,2025,1
 Brown University,US,Providence,41.82399,-71.41283,2025,1
 Sungkyunkwan University,KR,Suwon,37.29111,127.00889,2025,1
 Northern Jiangsu People's Hospital,CN,Yangzhou,32.403709411621094,119.460693359375,2025,1
@@ -1611,6 +1670,7 @@ Indiana University Bloomington,US,Bloomington,39.16533,-86.52639,2025,1
 University of Kansas Medical Center,US,Kansas City,39.11417,-94.62746,2025,1
 Eye & ENT Hospital of Fudan University,CN,Shanghai,31.209768295288086,121.45326232910156,2025,1
 Kunming University of Science and Technology,CN,Kunming,25.03889,102.71833,2025,1
+Nationwide Children's Hospital,US,Columbus,39.96118,-82.99879,2025,1
 University College London,GB,London,51.50853,-0.12574,2025,1
 Children's Mercy Hospital,US,Kansas City,39.09973,-94.57857,2025,1
 Shanghai Jiao Tong University,CN,Shanghai,31.22222,121.45806,2025,1
@@ -1626,7 +1686,6 @@ Institute for Basic Science,KR,Daejeon,36.34912872314453,127.38493347167969,2025
 Rockefeller University,US,New York,40.714271545410156,-74.00596618652344,2025,1
 University of Lethbridge,CA,Lethbridge,49.69999,-112.81856,2025,1
 University of Trento,IT,Trento,46.06787109375,11.12108039855957,2025,1
-Shenzhen University,CN,Shenzhen,22.54554,114.0683,2025,1
 First Affiliated Hospital of Anhui Medical University,CN,Hefei,31.86389,117.28083,2025,1
 Bond University,AU,Gold Coast,-28.00029,153.43088,2025,1
 Universitat Jaume I,ES,Castellon,39.98566818237305,-0.04935000091791153,2025,1
@@ -1668,11 +1727,13 @@ Monash University,AU,Melbourne,-37.814,144.96332,2025,1
 Sharif University of Technology,IR,Tehran,35.69439,51.42151,2025,1
 Mercer University,US,Macon,32.84069,-83.6324,2025,1
 Soochow University,CN,Suzhou,31.30408,120.59538,2025,1
+Istituto delle Scienze Neurologiche di Bologna,IT,Bologna,44.465816497802734,11.390021324157715,2025,1
 University of Cape Town,ZA,Rondebosch,-33.96333,18.47639,2025,1
 Catholic University of America,US,Washington,38.89511,-77.03637,2025,1
 University Hospital Leipzig,DE,Leipzig,51.33962,12.37129,2025,1
 Chengdu University of Traditional Chinese Medicine,CN,Chengdu,30.66667,104.06667,2025,1
 Saint Camillus International University of Health and Medical Sciences,IT,Rome,41.89193,12.51133,2025,1
+Washington University in St. Louis,US,St Louis,38.62727,-90.19789,2025,1
 University of Oklahoma Health Sciences Center,US,Oklahoma City,35.46756,-97.51643,2025,1
 University of Glasgow,GB,Glasgow,55.86515,-4.25763,2025,1
 "The Graduate Center, CUNY",US,New York,40.71427,-74.00597,2025,1
@@ -1697,11 +1758,11 @@ The Ohio State University,US,Columbus,39.96118,-82.99879,2025,1
 Kennedy Krieger Institute,US,Baltimore,39.29038,-76.61219,2025,1
 University of Iowa,US,Iowa City,41.66113,-91.53017,2025,1
 Carilion Clinic,US,Roanoke,37.27097,-79.94143,2025,1
+Asan Medical Center,KR,Seoul,37.566,126.9784,2025,1
 University of Illinois Chicago,US,Chicago,41.85003,-87.65005,2025,1
 Christian-Albrechts-Universität zu Kiel,DE,Kiel,54.32133,10.13489,2025,1
 National Yang Ming Chiao Tung University,TW,Hsinchu,24.80361,120.96861,2025,1
 MSB Medical School Berlin,DE,Berlin,52.52436828613281,13.410530090332031,2025,1
-Cleveland Clinic,US,Cleveland,41.4995,-81.69541,2024,1
 Duke Medical Center,US,Durham,35.9940299987793,-78.89862060546875,2024,1
 Leiden University Medical Center,NL,Leiden,52.158329010009766,4.493060111999512,2024,1
 Universitat Jaume I,ES,Castellon,39.98566818237305,-0.04935000091791153,2024,1
@@ -1710,10 +1771,10 @@ University of Rochester,US,Rochester,43.15478,-77.61556,2024,1
 South China Normal University,CN,Guangzhou,23.116670608520508,113.25,2024,1
 Brown University,US,Providence,41.82399,-71.41283,2024,1
 Virginia Tech,US,Blacksburg,37.22957,-80.41394,2024,1
+Inserm,FR,Paris,48.85341,2.3488,2024,1
 Tri-Service General Hospital,TW,Taipei,25.047760009765625,121.53185272216797,2024,1
 Chengdu University of Traditional Chinese Medicine,CN,Chengdu,30.66667,104.06667,2024,1
 Second Affiliated Hospital of Zhejiang University,CN,Hangzhou,30.25167465209961,120.17648315429688,2024,1
-University of Illinois Chicago,US,Chicago,41.85003,-87.65005,2024,1
 Brandeis University,US,Waltham,42.37649154663086,-71.23561096191406,2024,1
 University of Electronic Science and Technology of China,CN,Chengdu,30.66667,104.06667,2024,1
 Simon Fraser University,CA,Burnaby,49.26636,-122.95263,2024,1
@@ -1725,7 +1786,6 @@ Wan Fang Hospital,TW,Taipei,25.047760009765625,121.53185272216797,2024,1
 Aalto University,FI,Espoo,60.2052001953125,24.65220069885254,2024,1
 Kochi University of Technology,JP,Kochi,33.55,133.53333,2024,1
 Italian Institute of Technology,IT,Genoa,44.40478,8.94439,2024,1
-SRI International,US,Menlo Park,37.45383,-122.18219,2024,1
 Massachusetts Eye and Ear Infirmary,US,Boston,42.35843,-71.05977,2024,1
 National Research University Higher School of Economics,RU,Moscow,55.75204,37.61781,2024,1
 Brigham Young University,US,Provo,40.23384094238281,-111.65853118896484,2024,1
@@ -1734,6 +1794,7 @@ Veterans Health Administration,US,Washington D.C.,38.90072250366211,-77.03477478
 The University of Melbourne,AU,Melbourne,-37.814,144.96332,2024,1
 RIKEN Center for Brain Science,JP,Wako,35.7894401550293,139.6233367919922,2024,1
 Lund University,SE,Lund,55.70584,13.19321,2024,1
+Albert Einstein College of Medicine,US,Bronx,40.84985,-73.86641,2024,1
 Weill Cornell Medicine,US,New York,40.71427,-74.00597,2024,1
 Liaoning Normal University,CN,Dalian,38.91222,121.60222,2024,1
 University of Edinburgh,GB,Edinburgh,55.95206,-3.19648,2024,1
@@ -1752,6 +1813,7 @@ Western University,CA,London,42.98339,-81.23304,2024,1
 University Hospital of Geneva,CH,Geneva,46.20222,6.14569,2024,1
 Memorial Hermann,US,Houston,29.76328,-95.36327,2024,1
 University of Oslo,NO,Oslo,59.91273,10.74609,2024,1
+HES-SO University of Applied Sciences and Arts Western Switzerland,CH,Delémont,47.36493,7.34453,2024,1
 Sapienza University of Rome,IT,Rome,41.89193,12.51133,2024,1
 Sun Yat-sen University,CN,Guangzhou,23.11667,113.25,2024,1
 Georgetown University,US,Washington,38.89511,-77.03637,2024,1
@@ -1763,12 +1825,15 @@ University of Kansas,US,Lawrence,38.97167,-95.23525,2024,1
 University Medical Center Hamburg-Eppendorf,DE,Hamburg,53.55073,9.99302,2024,1
 University of South Carolina,US,Columbia,34.00071,-81.03481,2024,1
 McMaster University,CA,Hamilton,43.25011,-79.84963,2024,1
+Mayo Clinic,US,Rochester,44.02163,-92.4699,2024,1
 Research Institute of the McGill University Health Centre,CA,Montreal,45.50884,-73.58781,2024,1
 Western Sydney University,AU,Richmond,-33.59956,150.75142,2024,1
 Philipps University of Marburg,DE,Marburg,50.80904,8.77069,2024,1
 University of Salzburg,AT,Salzburg,47.79941,13.04399,2024,1
+Zhejiang University,CN,Hangzhou,30.29365,120.16142,2024,1
 Washington University in St. Louis,US,St Louis,38.62727,-90.19789,2024,1
 University of Modena and Reggio Emilia,IT,Modena,44.64783,10.92539,2024,1
+Texas Health Dallas,US,Dallas,32.88100051879883,-96.76300048828125,2024,1
 University of Virginia,US,Charlottesville,38.02931,-78.47668,2024,1
 Korean Association Of Science and Technology Studies,KR,Seoul,37.56034851074219,126.99635314941406,2024,1
 Indian Institute of Science Bangalore,IN,Bengaluru,12.97194,77.59369,2024,1
@@ -1782,6 +1847,7 @@ University of Nebraska Medical Center,US,Omaha,41.25626,-95.94043,2024,1
 National Institute of Neurological Disorders and Stroke,US,Bethesda,39.00382614135742,-77.10118103027344,2024,1
 Oslo University Hospital,NO,Oslo,59.91273,10.74609,2024,1
 Umeå University,SE,Umeå,63.82842,20.25972,2024,1
+Asan Medical Center,KR,Seoul,37.566,126.9784,2024,1
 Taipei Medical University Hospital,TW,Taipei,25.047760009765625,121.53185272216797,2024,1
 Siddhartha Academy of Higher Education,IN,Vijayawada,16.50745,80.6466,2024,1
 Wellcome Centre for Human Neuroimaging,GB,London,51.522178649902344,-0.12220299988985062,2024,1
@@ -1805,6 +1871,7 @@ Jinan University,CN,Guangzhou,23.11667,113.25,2024,1
 Drexel University,US,Philadelphia,39.95238,-75.16362,2024,1
 University of Connecticut,US,Storrs,41.80843,-72.24952,2024,1
 University of Nebraska–Lincoln,US,Lincoln,40.8,-96.66696,2024,1
+St. Michael's Hospital,CA,Toronto,43.70642852783203,-79.39864349365234,2024,1
 Avila University,US,Kansas City,39.09973,-94.57857,2024,1
 Tianjin Medical University General Hospital,CN,Tianjin,39.117496490478516,117.18585205078125,2024,1
 Fudan University,CN,Shanghai,31.22222,121.45806,2024,1
@@ -1816,6 +1883,7 @@ Cincinnati Children's Hospital Medical Center,US,Cincinnati,39.12711,-84.51439,2
 Universidad de La Laguna,ES,San Cristóbal de La Laguna,28.4853,-16.32014,2024,1
 University of Alabama,US,Tuscaloosa,33.20984,-87.56917,2024,1
 University of Rochester Medicine,US,Rochester,43.15478,-77.61556,2024,1
+National Health Research Institutes,TW,Hsinchu,24.80361,120.96861,2024,1
 Centre Hospitalier Universitaire Amiens-Picardie,FR,Amiens,49.9,2.3,2024,1
 Danderyds sjukhus,SE,Stockholm,59.32938,18.06871,2024,1
 Boys Town National Research Hospital,US,Omaha,41.25626,-95.94043,2024,1
@@ -1830,6 +1898,7 @@ Rutgers Health,US,Newark,40.73566,-74.17237,2024,1
 Nanfang Hospital,CN,Guangzhou,23.116670608520508,113.25,2024,1
 Icahn School of Medicine at Mount Sinai,US,New York,40.71427,-74.00597,2024,1
 Friedrich-Alexander-Universität Erlangen-Nürnberg,DE,Erlangen,49.59099,11.00783,2023,1
+Asan Medical Center,KR,Seoul,37.566,126.9784,2023,1
 Advanced MRI Technologies (United States),US,Sebastopol,38.39678955078125,-122.82052612304688,2023,1
 Shenzhen KangNing Hospital,CN,Shenzhen,22.565427780151367,114.13082885742188,2023,1
 "University of California, Santa Barbara",US,Santa Barbara,34.42083,-119.69819,2023,1
@@ -1868,6 +1937,7 @@ University of Münster,DE,Münster,51.96236,7.62571,2023,1
 Second Xiangya Hospital of Central South University,CN,Changsha,28.19874,112.97087,2023,1
 Texas A&M University,US,College Station,30.62798,-96.33441,2023,1
 Veterans Health Service Medical Center,KR,Seoul,37.566,126.9784,2023,1
+Amsterdam Neuroscience,NL,Amsterdam,52.37403,4.88969,2023,1
 Mortimer B. Zuckerman Mind Brain Behavior Institute,US,New York,40.71427,-74.00597,2023,1
 Champalimaud Foundation,PT,Lisbon,38.72509,-9.1498,2023,1
 Chinese Academy of Medical Sciences & Peking Union Medical College,CN,Beijing,39.9075,116.39723,2023,1
@@ -1884,7 +1954,6 @@ McGill University,CA,Montreal,45.50884,-73.58781,2023,1
 Nicolaus Copernicus University,PL,Torun,53.01374816894531,18.598140716552734,2023,1
 Arkansas Children's Nutrition Center,US,Little Rock,34.74648,-92.28959,2023,1
 Georgetown University Medical Center,US,Washington,38.89511,-77.03637,2023,1
-University of Alabama at Birmingham,US,Birmingham,33.52066,-86.80249,2023,1
 Mental Health Services,DK,Copenhagen,55.67594,12.56553,2023,1
 Michael E. DeBakey VA Medical Center,US,Houston,29.70207977294922,-95.38954162597656,2023,1
 National Institute of Diabetes and Digestive and Kidney Diseases,US,Bethesda,38.98067,-77.10026,2023,1
@@ -1910,6 +1979,7 @@ United States Department of Health and Human Services,US,Washington,38.89511,-77
 Carnegie Mellon University,US,Pittsburgh,40.44062,-79.99589,2023,1
 First Affiliated Hospital Zhejiang University,CN,Hangzhou,30.257551193237305,120.17793273925781,2023,1
 Nahrain University,IQ,Baghdad,33.34058,44.40088,2023,1
+Technical University of Munich,DE,Munich,48.13743,11.57549,2023,1
 University of Missouri–Kansas City,US,Kansas City,39.09973,-94.57857,2023,1
 Biomedical Research Networking Center on Neurodegenerative Diseases,ES,Madrid,40.4165,-3.70256,2023,1
 Max Planck Institute for Biological Cybernetics,DE,Tübingen,48.53666687011719,9.058889389038086,2023,1
@@ -1924,6 +1994,7 @@ Guangdong Academy of Medical Sciences,CN,Guangzhou,23.128231048583984,113.282333
 Florida International University,US,Miami,25.77427,-80.19366,2023,1
 San Francisco VA Medical Center,US,San Francisco,37.782470703125,-122.50423431396484,2023,1
 University of Science and Technology of China,CN,Hefei,31.86389,117.28083,2023,1
+University of Stirling,GB,Stirling,56.1190299987793,-3.9368200302124023,2023,1
 Korea University,KR,Seoul,37.566,126.9784,2023,1
 Beijing University of Posts and Telecommunications,CN,Beijing,39.9075,116.39723,2023,1
 United States Department of Veterans Affairs,US,Washington,38.89511,-77.03637,2023,1
@@ -1938,7 +2009,6 @@ Institut national de recherche en sciences et technologies du numérique,FR,Le C
 "University of California, Riverside",US,Riverside,33.95335,-117.39616,2023,1
 University of Denver,US,Denver,39.73915,-104.9847,2023,1
 Bielefeld University,DE,Bielefeld,52.03333,8.53333,2023,1
-University of Trento,IT,Trento,46.06787109375,11.12108039855957,2023,1
 Juntendo University,JP,Tokyo,35.6895,139.69171,2023,1
 University Hospital Bonn,DE,Bonn,50.73438,7.09549,2023,1
 Shandong University of Traditional Chinese Medicine,CN,Jinan,36.668331146240234,116.99722290039062,2023,1
@@ -1955,7 +2025,6 @@ Shaanxi Normal University,CN,Xi'an,34.258331298828125,108.9286117553711,2023,1
 Ewha Womans University,KR,Seoul,37.566,126.9784,2023,1
 Harbin Medical University,CN,Harbin,45.75,126.65,2023,1
 Medical College of Wisconsin,US,Milwaukee,43.03889846801758,-87.9064712524414,2023,1
-University of Copenhagen,DK,Copenhagen,55.67594,12.56553,2023,1
 Ministry of Civil Affairs,CN,Beijing,39.91751480102539,116.4062271118164,2023,1
 Tohoku University,JP,Sendai,38.26667,140.86667,2023,1
 KU Leuven,BE,Leuven,50.87959,4.70093,2023,1
@@ -1965,11 +2034,12 @@ University of New Mexico,US,Albuquerque,35.08449,-106.65114,2023,1
 Politecnico di Torino,IT,Turin,45.07049,7.68682,2023,1
 Indiana University School of Medicine,US,Indianapolis,39.76837921142578,-86.15804290771484,2023,1
 Children's Mercy Hospital,US,Kansas City,39.09973,-94.57857,2023,1
+University of Sassari,IT,Sassari,40.725860595703125,8.555520057678223,2023,1
 German Primate Center,DE,Göttingen,51.53443,9.93228,2023,1
+Oregon National Primate Research Center,US,Beaverton,45.52400588989258,-122.87482452392578,2023,1
 LivaNova (United Kingdom),GB,London,51.50853,-0.12574,2023,1
 Changzhou No.2 People's Hospital,CN,Changzhou,31.77359,119.95401,2023,1
 Xi'an University of Technology,CN,Xi'an,34.25833,108.92861,2023,1
-University Health Network,CA,Toronto,43.70643,-79.39864,2023,1
 New York University Abu Dhabi,AE,Abu Dhabi,24.45118,54.39696,2023,1
 Charles Darwin University,AU,Darwin,-12.46113,130.84185,2023,1
 Wan Fang Hospital,TW,Taipei,25.047760009765625,121.53185272216797,2023,1
@@ -1982,9 +2052,9 @@ Kennedy Krieger Institute,US,Baltimore,39.29038,-76.61219,2023,1
 "The Graduate Center, CUNY",US,New York,40.71427,-74.00597,2023,1
 "Institute of Psychology, Chinese Academy of Sciences",CN,Beijing,39.9075,116.39723,2023,1
 Shahed University,IR,Tehran,35.69439,51.42151,2023,1
+SRI International,US,Menlo Park,37.45383,-122.18219,2023,1
 University of Vienna,AT,Vienna,48.20849,16.37208,2023,1
 Chung-Ang University,KR,Seoul,37.566,126.9784,2023,1
-California Institute of Technology,US,Pasadena,34.14778,-118.14452,2023,1
 Guangdong Provincial Hospital of Chinese Medicine,CN,Guangzhou,23.11667,113.25,2023,1
 City College of New York,US,New York,40.714271545410156,-74.00596618652344,2023,1
 University of British Columbia,CA,Vancouver,49.24966,-123.11934,2023,1
@@ -2002,6 +2072,7 @@ OnePlanet Research Center,NL,Nijmegen,51.8425,5.85278,2022,1
 Helmholtz Munich,DE,Munich,48.13743,11.57549,2022,1
 Mayo Clinic,US,Rochester,44.02163,-92.4699,2022,1
 Felician University,US,Lodi,40.88232,-74.0832,2022,1
+"University of California, Riverside",US,Riverside,33.95335,-117.39616,2022,1
 The University of Texas at Dallas,US,Richardson,32.94818,-96.72972,2022,1
 University of Missouri–St. Louis,US,St Louis,38.62727,-90.19789,2022,1
 University of Wolverhampton,GB,Wolverhampton,52.58546829223633,-2.122960090637207,2022,1
@@ -2011,7 +2082,6 @@ The University of Texas MD Anderson Cancer Center,US,Houston,29.76328,-95.36327,
 The University of Melbourne,AU,Melbourne,-37.814,144.96332,2022,1
 Florida State University,US,Tallahassee,30.43826,-84.28073,2022,1
 Instituto Cajal,ES,Madrid,40.4165,-3.70256,2022,1
-SRI International,US,Menlo Park,37.45383,-122.18219,2022,1
 Oregon National Primate Research Center,US,Beaverton,45.52400588989258,-122.87482452392578,2022,1
 Jena University Hospital,DE,Jena,50.92878,11.5899,2022,1
 University of Liège,BE,Liège,50.633731842041016,5.567490100860596,2022,1
@@ -2079,6 +2149,7 @@ Jagiellonian University,PL,Krakow,50.06143,19.93658,2022,1
 Kyungpook National University,KR,Daegu,35.87028,128.59111,2022,1
 Massachusetts Institute of Technology,US,Cambridge,42.3751,-71.10561,2022,1
 Zhongda Hospital Southeast University,CN,Nanjing,32.07139587402344,118.77664947509766,2022,1
+Wake Forest University Health Sciences,US,Winston-Salem,36.09986,-80.24422,2022,1
 Colorado State University,US,Fort Collins,40.58526,-105.08442,2022,1
 Chongqing University,CN,Chongqing,29.56026,106.55771,2022,1
 NYU Langone Health,US,New York,40.71427,-74.00597,2022,1
@@ -2089,8 +2160,8 @@ Boys Town National Research Hospital,US,Omaha,41.25626,-95.94043,2022,1
 University of Warwick,GB,Coventry,52.40656,-1.51217,2022,1
 Centre Hospitalier Universitaire d'Angers,FR,Angers,47.471561431884766,-0.5520200133323669,2022,1
 Trinity College Dublin,IE,Dublin,53.33306121826172,-6.248889923095703,2022,1
+National Institute on Aging,US,Baltimore,39.29037857055664,-76.61219024658203,2022,1
 University of Colorado Anschutz,US,Aurora,39.72943,-104.83192,2022,1
-Oregon Health & Science University,US,Portland,45.5234489440918,-122.67620849609375,2022,1
 Centre Hospitalier Universitaire Vaudois,CH,Lausanne,46.516,6.63282,2022,1
 Virginia Tech,US,Blacksburg,37.22957,-80.41394,2022,1
 Chinese Academy of Medical Sciences & Peking Union Medical College,CN,Beijing,39.9075,116.39723,2022,1
@@ -2098,6 +2169,7 @@ Ministry of Education of the People's Republic of China,CN,Beijing,39.9075,116.3
 Robert Bosch (United States),US,Farmington Hills,42.48530960083008,-83.37715911865234,2022,1
 Northern Jiangsu People's Hospital,CN,Yangzhou,32.403709411621094,119.460693359375,2022,1
 Tarbiat Modares University,IR,Tehran,35.69439,51.42151,2022,1
+Western University,CA,London,42.98339,-81.23304,2022,1
 Imperial College London,GB,London,51.50853,-0.12574,2022,1
 Rutgers Health,US,Newark,40.73566,-74.17237,2022,1
 Nankai University,CN,Tianjin,39.14222,117.17667,2022,1
@@ -2120,6 +2192,8 @@ Second Affiliated Hospital & Yuying Children's Hospital of Wenzhou Medical Unive
 Beijing Normal University,CN,Beijing,39.9075,116.39723,2022,1
 Southwest University,CN,Chongqing,29.560260772705078,106.55770874023438,2022,1
 Hanyang University,KR,Seoul,37.566,126.9784,2022,1
+Duke-NUS Medical School,SG,Singapore,1.28967,103.85007,2022,1
+Kessler Foundation,US,West Orange,40.79871,-74.23904,2022,1
 PFH Private University of Applied Sciences,DE,Göttingen,51.53922653198242,9.932658195495605,2022,1
 First Affiliated Hospital Zhejiang University,CN,Hangzhou,30.257551193237305,120.17793273925781,2022,1
 Simon Fraser University,CA,Burnaby,49.26636,-122.95263,2022,1
@@ -2154,6 +2228,7 @@ Indraprastha Institute of Information Technology Delhi,IN,Delhi,28.65195,77.2314
 University of Palermo,IT,Palermo,38.116600036621094,13.36359977722168,2021,1
 Biomedical Research Networking Center on Neurodegenerative Diseases,ES,Madrid,40.4165,-3.70256,2021,1
 The Alfred Hospital,AU,Melbourne,-37.814,144.96332,2021,1
+Massachusetts Institute of Technology,US,Cambridge,42.3751,-71.10561,2021,1
 Henry M. Jackson Foundation,US,Bethesda,38.98067,-77.10026,2021,1
 Temple University,US,Philadelphia,39.95238,-75.16362,2021,1
 University of Southern California,US,Los Angeles,34.05223,-118.24368,2021,1
@@ -2168,6 +2243,7 @@ University of Oxford,GB,Oxford,51.75222,-1.25596,2021,1
 Netherlands Institute for Neuroscience,NL,Amsterdam,52.37403106689453,4.889689922332764,2021,1
 National Taiwan University,TW,Taipei,25.05306,121.52639,2021,1
 University of Oklahoma,US,Norman,35.22257,-97.43948,2021,1
+University of Colorado Boulder,US,Boulder,40.01499,-105.27055,2021,1
 University Hospital Leipzig,DE,Leipzig,51.33962,12.37129,2021,1
 Zhongda Hospital Southeast University,CN,Nanjing,32.07139587402344,118.77664947509766,2021,1
 Zhejiang University,CN,Hangzhou,30.29365,120.16142,2021,1
@@ -2180,14 +2256,10 @@ Saint Joseph University,LB,Beirut,33.89332,35.50157,2021,1
 Tri-Service General Hospital,TW,Taipei,25.047760009765625,121.53185272216797,2021,1
 University of Edinburgh,GB,Edinburgh,55.95206,-3.19648,2021,1
 Cincinnati Children's Hospital Medical Center,US,Cincinnati,39.12711,-84.51439,2021,1
-University of Nebraska–Lincoln,US,Lincoln,40.8,-96.66696,2021,1
-University of Kentucky,US,Lexington,37.98869,-84.47772,2021,1
 University of Tennessee Health Science Center,US,Memphis,35.14953,-90.04898,2021,1
-Northeastern University,US,Boston,42.35843,-71.05977,2021,1
 University of Alabama,US,Tuscaloosa,33.20984,-87.56917,2021,1
 Hainan University,CN,Haikou,20.034210205078125,110.34651184082031,2021,1
 Lund University,SE,Lund,55.70584,13.19321,2021,1
-Oregon Health & Science University,US,Portland,45.5234489440918,-122.67620849609375,2021,1
 Douglas Mental Health University Institute,CA,Montreal,45.50883865356445,-73.58780670166016,2021,1
 Lomonosov Moscow State University,RU,Moscow,55.75204,37.61781,2021,1
 Post Graduate Institute of Medical Education and Research,IN,Chandigarh,30.736289978027344,76.78839874267578,2021,1
@@ -2195,7 +2267,6 @@ University of Geneva,CH,Geneva,46.20222,6.14569,2021,1
 "The Graduate University for Advanced Studies, SOKENDAI",JP,Hayama,35.27651,139.57733,2021,1
 Wellcome Centre for Human Neuroimaging,GB,London,51.522178649902344,-0.12220299988985062,2021,1
 Santa Clara University,US,Santa Clara,37.35411071777344,-121.95523834228516,2021,1
-Loma Linda University Medical Center,US,Loma Linda,34.0525016784668,-117.26416778564453,2021,1
 Inserm,FR,Paris,48.85341,2.3488,2021,1
 VA Northern California Health Care System,US,Sacramento,38.572662353515625,-121.29637908935547,2021,1
 First Hospital of China Medical University,CN,Shenyang,41.79222,123.43278,2021,1
@@ -2223,6 +2294,7 @@ South China Normal University,CN,Guangzhou,23.116670608520508,113.25,2021,1
 Children's National,US,Washington,38.89511,-77.03637,2021,1
 Queen's University,CA,Kingston,44.22976,-76.48098,2021,1
 Korea Advanced Institute of Science and Technology,KR,Daejeon,36.34913,127.38493,2021,1
+National Health Research Institutes,TW,Hsinchu,24.80361,120.96861,2021,1
 Chonnam National University,KR,Gwangju,35.15472,126.91556,2021,1
 Columbia University,US,New York,40.71427,-74.00597,2021,1
 University of Oslo,NO,Oslo,59.91273,10.74609,2021,1
@@ -2239,7 +2311,6 @@ Florida State University,US,Tallahassee,30.43826,-84.28073,2021,1
 University of Virginia,US,Charlottesville,38.02931,-78.47668,2021,1
 "Basque Center on Cognition, Brain and Language",ES,Donostia / San Sebastian,43.31283187866211,-1.9749900102615356,2021,1
 Newcastle University,GB,Newcastle upon Tyne,54.97328,-1.61396,2021,1
-SRI International,US,Menlo Park,37.45383,-122.18219,2021,1
 Children's Hospital Colorado,US,Aurora,39.72943,-104.83192,2021,1
 Liaoning Normal University,CN,Dalian,38.91222,121.60222,2021,1
 Drexel University,US,Philadelphia,39.95238,-75.16362,2021,1
@@ -2255,6 +2326,7 @@ Case Western Reserve University,US,Cleveland,41.4995,-81.69541,2021,1
 Carl von Ossietzky Universität Oldenburg,DE,Oldenburg,53.14039,8.21479,2021,1
 Indiana University,US,Bloomington,39.16533,-86.52639,2021,1
 D’Or Institute for Research and Education,BR,Rio de Janeiro,-22.90642,-43.18223,2021,1
+Universidade do Porto,PT,Porto,41.1485,-8.61097,2021,1
 Goethe University Frankfurt,DE,Frankfurt am Main,50.11552,8.68417,2021,1
 Montreal Heart Institute,CA,Montreal,45.50884,-73.58781,2021,1
 Pontifícia Universidade Católica do Rio Grande do Sul,BR,Porto Alegre,-30.03283,-51.23019,2021,1
@@ -2274,7 +2346,6 @@ University of British Columbia,CA,Vancouver,49.24966,-123.11934,2021,1
 Hunter Medical Research Institute,AU,Newcastle,-32.92953,151.7801,2021,1
 Bielefeld University,DE,Bielefeld,52.03333,8.53333,2021,1
 Central South University,CN,Changsha,28.19874,112.97087,2021,1
-University Health Network,CA,Toronto,43.70643,-79.39864,2021,1
 Ospedale Policlinico San Martino,IT,Genoa,44.40478,8.94439,2021,1
 Rice University,US,Houston,29.76328,-95.36327,2021,1
 Second Affiliated Hospital of Nanjing Medical University,CN,Nanjing,32.08003616333008,118.74436950683594,2021,1
@@ -2284,7 +2355,6 @@ Anhui University of Traditional Chinese Medicine,CN,Hefei,31.86389,117.28083,202
 Southwest University,CN,Chongqing,29.560260772705078,106.55770874023438,2021,1
 University of Central Florida,US,Orlando,28.53834,-81.37924,2021,1
 University of Arizona,US,Tucson,32.22174,-110.92648,2021,1
-Ikerbasque,ES,Bilbao,43.26271,-2.92528,2021,1
 Gachon University,KR,Seongnam-si,37.43861,127.13778,2021,1
 Icahn School of Medicine at Mount Sinai,US,New York,40.71427,-74.00597,2021,1
 Milwaukee VA Medical Center,US,Milwaukee,43.02045822143555,-87.9748306274414,2021,1
@@ -2292,12 +2362,10 @@ University of Bern,CH,Bern,46.94809,7.44744,2021,1
 ARC Centre of Excellence for Integrative Brain Function,AU,Clayton,-37.91667175292969,145.11666870117188,2021,1
 University of Illinois Chicago,US,Chicago,41.85003,-87.65005,2021,1
 University of North Carolina at Greensboro,US,Greensboro,36.07263946533203,-79.79197692871094,2021,1
-University Health Network,CA,Toronto,43.70643,-79.39864,2020,1
 Oulu University Hospital,FI,Oulu,65.01235961914062,25.46816062927246,2020,1
 Tongji Hospital,CN,Wuhan,30.583330154418945,114.26667022705078,2020,1
 National Taiwan University,TW,Taipei,25.05306,121.52639,2020,1
 Haskins Laboratories,US,New Haven,41.30512237548828,-72.93131256103516,2020,1
-Massachusetts Eye and Ear Infirmary,US,Boston,42.35843,-71.05977,2020,1
 Cedars-Sinai Medical Center,US,Los Angeles,34.05223,-118.24368,2020,1
 University of Denver,US,Denver,39.73915,-104.9847,2020,1
 Nathan Kline Institute for Psychiatric Research,US,Orangeburg,41.049617767333984,-73.96810913085938,2020,1
@@ -2310,6 +2378,7 @@ Mayo Clinic,US,Rochester,44.02163,-92.4699,2020,1
 Bard College,US,Annandale-on-Hudson,42.01287,-73.90819,2020,1
 Central South University,CN,Changsha,28.19874,112.97087,2020,1
 "University of California, Merced",US,Merced,37.30215835571289,-120.48297119140625,2020,1
+University of Cape Town,ZA,Rondebosch,-33.96333,18.47639,2020,1
 Nationwide Children's Hospital,US,Columbus,39.96118,-82.99879,2020,1
 New York University,US,New York,40.71427,-74.00597,2020,1
 University of Missouri–Kansas City,US,Kansas City,39.09973,-94.57857,2020,1
@@ -2320,6 +2389,7 @@ Worcester Polytechnic Institute,US,Worcester,42.26259,-71.80229,2020,1
 Veterans Health Administration,US,Washington D.C.,38.90072250366211,-77.03477478027344,2020,1
 Sungkyunkwan University,KR,Suwon,37.29111,127.00889,2020,1
 University of East Anglia,GB,Norwich,52.62783,1.29834,2020,1
+Michael E. DeBakey VA Medical Center,US,Houston,29.70207977294922,-95.38954162597656,2020,1
 Indiana University Bloomington,US,Bloomington,39.16533,-86.52639,2020,1
 Indiana University – Purdue University Indianapolis,US,Indpls,39.76838,-86.15804,2020,1
 University of Missouri,US,Columbia,38.95171,-92.33407,2020,1
@@ -2330,7 +2400,6 @@ Centre Hospitalier Universitaire Vaudois,CH,Lausanne,46.516,6.63282,2020,1
 University of Connecticut,US,Storrs,41.80843,-72.24952,2020,1
 Universitat de Barcelona,ES,Barcelona,41.38879,2.15899,2020,1
 Shenzhen University,CN,Shenzhen,22.54554,114.0683,2020,1
-National Institute of Neurological Disorders and Stroke,US,Bethesda,39.00382614135742,-77.10118103027344,2020,1
 Stony Brook University,US,Stony Brook,40.92565,-73.14094,2020,1
 University of Glasgow,GB,Glasgow,55.86515,-4.25763,2020,1
 Nanjing First Hospital,CN,Nanjing,32.06167,118.77778,2020,1
@@ -2343,6 +2412,7 @@ Logan University,US,Chesterfield,38.66311,-90.57707,2020,1
 George Washington University,US,Washington,38.89511,-77.03637,2020,1
 Universidade Federal Fluminense,BR,Niterói,-22.88333,-43.10361,2020,1
 Child Mind Institute,US,New York,40.71427,-74.00597,2020,1
+Montreal Heart Institute,CA,Montreal,45.50884,-73.58781,2020,1
 Queen's University,CA,Kingston,44.22976,-76.48098,2020,1
 Northwell Health,US,New Hyde Park,40.7351,-73.68791,2020,1
 Lake Superior State University,US,Sault Ste. Marie,46.49300003051758,-84.36299896240234,2020,1
@@ -2351,7 +2421,6 @@ University of Arkansas for Medical Sciences,US,Little Rock,34.74648,-92.28959,20
 United States Food and Drug Administration,US,Silver Spring,38.99067,-77.02609,2020,1
 "University of California, Irvine",US,Irvine,33.66946,-117.82311,2020,1
 University of Ottawa,CA,Ottawa,45.41117,-75.69812,2020,1
-Max Planck Institute for Human Cognitive and Brain Sciences,DE,Leipzig,51.33573532104492,12.388835906982422,2020,1
 Nicolaus Copernicus University,PL,Torun,53.01374816894531,18.598140716552734,2020,1
 University of Aberdeen,GB,Aberdeen,57.14369,-2.09814,2020,1
 Keimyung University Dongsan Medical Center,KR,Daegu,35.87028,128.59111,2020,1
@@ -2364,14 +2433,12 @@ University of Graz,AT,Graz,47.06733,15.44197,2020,1
 Ghent University,BE,Ghent,51.05,3.71667,2020,1
 Purdue University West Lafayette,US,West Lafayette,40.42587,-86.90807,2020,1
 National University of Singapore,SG,Singapore,1.28967,103.85007,2020,1
-Lund University,SE,Lund,55.70584,13.19321,2020,1
 McGovern Institute for Brain Research,US,Cambridge,42.375099182128906,-71.1056137084961,2020,1
 Children's Hospital of Philadelphia,US,Philadelphia,39.9523811340332,-75.16361999511719,2020,1
 MRC Cognition and Brain Sciences Unit,GB,Cambridge,52.19260025024414,0.11919999867677689,2020,1
 Santa Fe Institute,US,Santa Fe,35.686981201171875,-105.93779754638672,2020,1
 Peking University,CN,Beijing,39.9075,116.39723,2020,1
 Linköping University,SE,Linköping,58.41086,15.62157,2020,1
-Henry M. Jackson Foundation,US,Bethesda,38.98067,-77.10026,2020,1
 Heidelberg University,DE,Heidelberg,49.40768,8.69079,2020,1
 Beijing Jiaotong University,CN,Beijing,39.9075,116.39723,2020,1
 First Affiliated Hospital of Guangzhou University of Chinese Medicine,CN,Guangzhou,23.156517028808594,113.26403045654297,2020,1
@@ -2381,11 +2448,10 @@ University of California Davis Medical Center,US,Sacramento,38.58157,-121.4944,2
 Vanderbilt University Medical Center,US,Nashville,36.16589,-86.78444,2020,1
 SUNY Downstate Health Sciences University,US,Brooklyn,40.6501,-73.94958,2020,1
 Great Ormond Street Hospital,GB,London,51.50852966308594,-0.12574000656604767,2020,1
-The University of Melbourne,AU,Melbourne,-37.814,144.96332,2020,1
-Cornell University,US,Ithaca,42.44063,-76.49661,2020,1
+Wake Forest University Health Sciences,US,Winston-Salem,36.09986,-80.24422,2020,1
+Tel Aviv University,IL,Tel Aviv,32.08088,34.78057,2020,1
 Goethe University Frankfurt,DE,Frankfurt am Main,50.11552,8.68417,2020,1
 University of Florida Health,US,Gainesville,29.65163,-82.32483,2020,1
-SRI International,US,Menlo Park,37.45383,-122.18219,2020,1
 Shanghai Medical College of Fudan University,CN,Shanghai,31.222219467163086,121.45806121826172,2020,1
 University of Washington Medical Center,US,Seattle,47.60621,-122.33207,2020,1
 Ospedale Policlinico San Martino,IT,Genoa,44.40478,8.94439,2020,1
@@ -2398,7 +2464,6 @@ Hospital for Sick Children,CA,Toronto,43.70643,-79.39864,2020,1
 National Research University Higher School of Economics,RU,Moscow,55.75204,37.61781,2020,1
 "University of Nevada, Reno",US,Reno,39.52963,-119.8138,2020,1
 Sharif University of Technology,IR,Tehran,35.69439,51.42151,2020,1
-Asan Medical Center,KR,Seoul,37.566,126.9784,2020,1
 Meyer Children's Hospital,IT,Florence,43.77925,11.24626,2020,1
 Aalto University,FI,Espoo,60.2052001953125,24.65220069885254,2020,1
 University of Cincinnati,US,Cincinnati,39.12711,-84.51439,2020,1
@@ -2457,17 +2522,18 @@ Alberta Children's Hospital Research Institute,CA,Calgary,51.05010986328125,-114
 University of Kansas,US,Lawrence,38.97167,-95.23525,2019,1
 Nathan Kline Institute for Psychiatric Research,US,Orangeburg,41.049617767333984,-73.96810913085938,2019,1
 Instytut Biologii Doświadczalnej im. Marcelego Nenckiego,PL,Warsaw,52.22977,21.01178,2019,1
-University of Oregon,US,Eugene,44.05207,-123.08675,2019,1
 Children's Hospital Colorado,US,Aurora,39.72943,-104.83192,2019,1
 Henry M. Jackson Foundation,US,Bethesda,38.98067,-77.10026,2019,1
 University Hospital Carl Gustav Carus,DE,Dresden,51.05089,13.73832,2019,1
 KU Leuven,BE,Leuven,50.87959,4.70093,2019,1
 National Institute of Mental Health,US,Bethesda,38.98067,-77.10026,2019,1
 Universitat Pompeu Fabra,ES,Barcelona,41.38879,2.15899,2019,1
+"University of California, San Francisco",US,San Francisco,37.77493,-122.41942,2019,1
 Taipei Veterans General Hospital,TW,Taipei,25.05306,121.52639,2019,1
 ARC Centre of Excellence for Integrative Brain Function,AU,Clayton,-37.91667175292969,145.11666870117188,2019,1
 Douglas Mental Health University Institute,CA,Montreal,45.50883865356445,-73.58780670166016,2019,1
 Brigham Young University,US,Provo,40.23384094238281,-111.65853118896484,2019,1
+Charité – Universitätsmedizin Berlin,DE,Berlin,52.52437,13.41053,2019,1
 University of Alabama,US,Tuscaloosa,33.20984,-87.56917,2019,1
 University of British Columbia,CA,Vancouver,49.24966,-123.11934,2019,1
 Georgia State University,US,Atlanta,33.749,-84.38798,2019,1
@@ -2480,6 +2546,7 @@ University of Newcastle Australia,AU,Newcastle,-32.92953,151.7801,2019,1
 Fairfield University,US,Fairfield,41.14120864868164,-73.26373291015625,2019,1
 Chinese Academy of Medical Sciences & Peking Union Medical College,CN,Beijing,39.9075,116.39723,2019,1
 Memorial Sloan Kettering Cancer Center,US,New York,40.71427,-74.00597,2019,1
+Asan Medical Center,KR,Seoul,37.566,126.9784,2019,1
 Logan University,US,Chesterfield,38.66311,-90.57707,2019,1
 New Jersey Institute of Technology,US,Newark,40.73566,-74.17237,2019,1
 Tel Aviv University,IL,Tel Aviv,32.08088,34.78057,2019,1
@@ -2496,16 +2563,16 @@ University of Miami,US,Coral Gables,25.72149,-80.26838,2019,1
 University of Ottawa,CA,Ottawa,45.41117,-75.69812,2019,1
 Cincinnati Children's Hospital Medical Center,US,Cincinnati,39.12711,-84.51439,2019,1
 Canadian Memorial Chiropractic College,CA,Toronto,43.70643,-79.39864,2019,1
+Inha University,KR,Incheon,37.45646,126.70515,2019,1
 Fordham University,US,New York,40.71427,-74.00597,2019,1
 Dartmouth College,US,Hanover,43.70229,-72.28954,2019,1
 Hebrew University of Jerusalem,IL,Jerusalem,31.76904,35.21633,2019,1
 Lund University,SE,Lund,55.70584,13.19321,2019,1
 Radboud University Nijmegen,NL,Nijmegen,51.8425,5.85278,2019,1
-Seoul National University,KR,Seoul,37.566,126.9784,2019,1
+Fudan University,CN,Shanghai,31.22222,121.45806,2019,1
 Cedars-Sinai Medical Center,US,Los Angeles,34.05223,-118.24368,2019,1
 Western University,CA,London,42.98339,-81.23304,2019,1
 University of Helsinki,FI,Helsinki,60.16952,24.93545,2019,1
-St Thomas' Hospital,GB,London,51.498817443847656,-0.11910080909729004,2019,1
 "University of California, Riverside",US,Riverside,33.95335,-117.39616,2019,1
 Indiana University Indianapolis,US,Indianapolis,39.76838,-86.15804,2019,1
 University of North Texas,US,Denton,33.21484,-97.13307,2019,1
@@ -2531,6 +2598,7 @@ Homewood Research Institute,CA,Guelph,43.54594,-80.25599,2019,1
 Keio University,JP,Tokyo,35.6895,139.69171,2019,1
 Kessler Foundation,US,West Orange,40.79871,-74.23904,2019,1
 Loma Linda University,US,Loma Linda,34.0483512878418,-117.26114654541016,2019,1
+Max Planck Institute for Human Cognitive and Brain Sciences,DE,Leipzig,51.33573532104492,12.388835906982422,2019,1
 Rutgers Health,US,Newark,40.73566,-74.17237,2019,1
 Ospedale Policlinico San Martino,IT,Genoa,44.40478,8.94439,2019,1
 Institut Universitaire en Santé Mentale de Québec,CA,Québec,46.81228,-71.21454,2019,1
@@ -2538,6 +2606,7 @@ Institute of Molecular Bioimaging and Physiology,IT,Milan,45.62912368774414,9.21
 Second Affiliated Hospital & Yuying Children's Hospital of Wenzhou Medical University,CN,Wenzhou,27.99942,120.66682,2019,1
 University of Nebraska–Lincoln,US,Lincoln,40.8,-96.66696,2019,1
 Health Research Institute of the Balearic Islands,ES,Palma,39.56939,2.65024,2019,1
+Affiliated Hospital of Guizhou Medical University,CN,Guiyang,26.593969345092773,106.7127914428711,2019,1
 Nanjing Drum Tower Hospital,CN,Nanjing,32.061668395996094,118.77777862548828,2019,1
 Alberta Children's Hospital,CA,Calgary,51.05010986328125,-114.08528900146484,2019,1
 The University of Tokyo,JP,Tokyo,35.6895,139.69171,2019,1
@@ -2636,6 +2705,7 @@ Massachusetts General Hospital,US,Boston,42.35843,-71.05977,2018,1
 Rockefeller University,US,New York,40.714271545410156,-74.00596618652344,2018,1
 Radboud University Nijmegen,NL,Nijmegen,51.8425,5.85278,2018,1
 The University of Sydney,AU,Sydney,-33.86785,151.20732,2018,1
+University of Zurich,CH,Zurich,47.36667,8.55,2018,1
 Michael E. DeBakey VA Medical Center,US,Houston,29.70207977294922,-95.38954162597656,2018,1
 Hospital General Universitario Gregorio Marañón,ES,Madrid,40.4165,-3.70256,2018,1
 Drexel University,US,Philadelphia,39.95238,-75.16362,2018,1
@@ -2650,9 +2720,9 @@ Texas State University,US,San Marcos,29.88327,-97.94139,2018,1
 University of Cincinnati Medical Center,US,Cincinnati,39.13043975830078,-84.52094268798828,2018,1
 Dartmouth College,US,Hanover,43.70229,-72.28954,2018,1
 Chinese Academy of Medical Sciences & Peking Union Medical College,CN,Beijing,39.9075,116.39723,2018,1
-Georgia State University,US,Atlanta,33.749,-84.38798,2018,1
 University Medical Center Utrecht,NL,Utrecht,52.09083,5.12222,2018,1
 Louisiana State University,US,Baton Rouge,30.44332,-91.18747,2018,1
+University of Cape Town,ZA,Rondebosch,-33.96333,18.47639,2018,1
 National Research University Higher School of Economics,RU,Moscow,55.75204,37.61781,2018,1
 University Hospital Zurich,CH,Zurich,47.36667,8.55,2018,1
 Institute for Cognitive Science Studies,IR,Tehran,35.69439,51.42151,2018,1
@@ -2697,6 +2767,7 @@ Jinan University,CN,Guangzhou,23.11667,113.25,2018,1
 Peking University,CN,Beijing,39.9075,116.39723,2018,1
 Denver VA Medical Center,US,Denver,39.73404312133789,-104.93634796142578,2018,1
 Kyung Hee University,KR,Seoul,37.566,126.9784,2018,1
+University Health Network,CA,Toronto,43.70643,-79.39864,2018,1
 Haukeland University Hospital,NO,Bergen,60.39299,5.32415,2018,1
 University College London,GB,London,51.50853,-0.12574,2018,1
 McGill University,CA,Montreal,45.50884,-73.58781,2018,1
@@ -2714,6 +2785,7 @@ National Taiwan University,TW,Taipei,25.05306,121.52639,2018,1
 National Yang Ming Chiao Tung University,TW,Hsinchu,24.80361,120.96861,2018,1
 NYU Langone Health,US,New York,40.71427,-74.00597,2018,1
 Hefei University of Technology,CN,Hefei,31.863889694213867,117.28083038330078,2018,1
+St Thomas' Hospital,GB,London,51.498817443847656,-0.11910080909729004,2018,1
 La Trobe University,AU,Melbourne,-37.814,144.96332,2018,1
 National Yang Ming University,TW,Taipei,25.05306,121.52639,2018,1
 Union Hospital,CN,Fuzhou,26.078580856323242,119.30445861816406,2018,1
@@ -2725,6 +2797,7 @@ University of Wisconsin–Milwaukee,US,Milwaukee,43.0389,-87.90647,2018,1
 University of Birmingham,GB,Birmingham,52.48142,-1.89983,2018,1
 Children's National,US,Washington,38.89511,-77.03637,2018,1
 Instytut Biologii Doświadczalnej im. Marcelego Nenckiego,PL,Warsaw,52.22977,21.01178,2018,1
+Leiden University,NL,Leiden,52.15833,4.49306,2017,1
 University of Modena and Reggio Emilia,IT,Modena,44.64783,10.92539,2017,1
 IMT School for Advanced Studies Lucca,IT,Lucca,43.84369,10.50447,2017,1
 Adelphi University,US,Garden City,40.72677,-73.6343,2017,1
@@ -2751,6 +2824,7 @@ University of Tulsa,US,Tulsa,36.15398,-95.99277,2017,1
 First Affiliated Hospital of Shantou University Medical College,CN,Shantou,23.362361907958984,116.70695495605469,2017,1
 Jena University Hospital,DE,Jena,50.92878,11.5899,2017,1
 Princeton University,US,Princeton,40.34872,-74.65905,2017,1
+St Thomas' Hospital,GB,London,51.498817443847656,-0.11910080909729004,2017,1
 University of Alabama,US,Tuscaloosa,33.20984,-87.56917,2017,1
 Georgia State University,US,Atlanta,33.749,-84.38798,2017,1
 University of Science and Technology of China,CN,Hefei,31.86389,117.28083,2017,1
@@ -2760,9 +2834,9 @@ Centro Ricerche Enrico Fermi,IT,Rome,41.89193,12.51133,2017,1
 University of Calgary,CA,Calgary,51.05011,-114.08529,2017,1
 Memorial Sloan Kettering Cancer Center,US,New York,40.71427,-74.00597,2017,1
 Oregon Research Institute,US,Eugene,44.05207,-123.08675,2017,1
+University of Southern California,US,Los Angeles,34.05223,-118.24368,2017,1
 University of Illinois Chicago,US,Chicago,41.85003,-87.65005,2017,1
 University Medical Center Utrecht,NL,Utrecht,52.09083,5.12222,2017,1
-University Health Network,CA,Toronto,43.70643,-79.39864,2017,1
 Cardiff University,GB,Cardiff,51.48,-3.18,2017,1
 University of Nottingham,GB,Nottingham,52.9536,-1.15047,2017,1
 "Basque Center on Cognition, Brain and Language",ES,Donostia / San Sebastian,43.31283187866211,-1.9749900102615356,2017,1
@@ -2774,7 +2848,6 @@ Denver VA Medical Center,US,Denver,39.73404312133789,-104.93634796142578,2017,1
 Northwestern University,US,Evanston,42.04114,-87.69006,2017,1
 Nanjing Brain Hospital,CN,Nanjing,32.04991912841797,118.7699203491211,2017,1
 Chungbuk National University,KR,Cheongju-si,36.63722,127.48972,2017,1
-The University of Texas at Dallas,US,Richardson,32.94818,-96.72972,2017,1
 University of Copenhagen,DK,Copenhagen,55.67594,12.56553,2017,1
 Medical University of South Carolina,US,Charleston,32.77632,-79.93275,2017,1
 Institut Universitaire en Santé Mentale de Québec,CA,Québec,46.81228,-71.21454,2017,1
@@ -2786,7 +2859,6 @@ Southeast University,CN,Nanjing,32.06167,118.77778,2017,1
 Rockefeller University,US,New York,40.714271545410156,-74.00596618652344,2017,1
 University of Tübingen,DE,Tübingen,48.52266,9.05222,2017,1
 Drexel University,US,Philadelphia,39.95238,-75.16362,2017,1
-National Institute of Neurological Disorders and Stroke,US,Bethesda,39.00382614135742,-77.10118103027344,2017,1
 Hangzhou Normal University,CN,Hangzhou,30.29365,120.16142,2017,1
 Universitat de Barcelona,ES,Barcelona,41.38879,2.15899,2017,1
 Shanghai Medical College of Fudan University,CN,Shanghai,31.222219467163086,121.45806121826172,2017,1
@@ -2819,6 +2891,7 @@ VA Boston Healthcare System,US,Boston,42.35843,-71.05977,2017,1
 Chengdu University of Traditional Chinese Medicine,CN,Chengdu,30.66667,104.06667,2017,1
 Indiana University Bloomington,US,Bloomington,39.16533,-86.52639,2017,1
 United States Department of Veterans Affairs,US,Washington,38.89511,-77.03637,2017,1
+University of Connecticut,US,Storrs,41.80843,-72.24952,2017,1
 Lyon 1 Université,FR,Villeurbanne,45.76601,4.8795,2017,1
 Chengdu University of Information Technology,CN,Chengdu,30.666669845581055,104.0666732788086,2017,1
 Memorial Hermann,US,Houston,29.76328,-95.36327,2017,1
@@ -2854,9 +2927,11 @@ Weill Cornell Medicine,US,New York,40.71427,-74.00597,2017,1
 University of Washington,US,Seattle,47.60621,-122.33207,2017,1
 Rigshospitalet,DK,Copenhagen,55.675941467285156,12.565529823303223,2017,1
 Henry M. Jackson Foundation,US,Bethesda,38.98067,-77.10026,2017,1
+Massachusetts Institute of Technology,US,Cambridge,42.3751,-71.10561,2016,1
 Wannan Medical College,CN,Wuhu,31.35259,118.42947,2016,1
 Tel Aviv University,IL,Tel Aviv,32.08088,34.78057,2016,1
 University of Houston,US,Houston,29.763280868530273,-95.36327362060547,2016,1
+Thomas Jefferson University,US,Philadelphia,39.95238,-75.16362,2016,1
 Boys Town National Research Hospital,US,Omaha,41.25626,-95.94043,2016,1
 Rotman Research Institute,CA,Toronto,43.70643,-79.39864,2016,1
 Columbia University Irving Medical Center,US,New York,40.71427,-74.00597,2016,1
@@ -2950,6 +3025,7 @@ University of Padua,IT,Padua,45.40797,11.88586,2016,1
 University of Geneva,CH,Geneva,46.20222,6.14569,2016,1
 Health Sciences Centre,CA,Winnipeg,49.8844,-97.14704,2016,1
 National Yang Ming Chiao Tung University,TW,Hsinchu,24.80361,120.96861,2016,1
+Universitätsklinikum Tübingen,DE,Tübingen,48.52266,9.05222,2016,1
 Columbia University,US,New York,40.71427,-74.00597,2016,1
 University of Electronic Science and Technology of China,CN,Chengdu,30.66667,104.06667,2016,1
 Alberta Health Services,CA,Edmonton,53.55014,-113.46871,2016,1
@@ -2977,6 +3053,7 @@ Tianjin Medical University General Hospital,CN,Tianjin,39.117496490478516,117.18
 Children's National,US,Washington,38.89511,-77.03637,2015,1
 Haskins Laboratories,US,New Haven,41.30512237548828,-72.93131256103516,2015,1
 Stony Brook University,US,Stony Brook,40.92565,-73.14094,2015,1
+University of Konstanz,DE,Konstanz,47.66033,9.17582,2015,1
 Universidade de São Paulo,BR,São Paulo,-23.5475,-46.63611,2015,1
 Michigan State University,US,East Lansing,42.73698,-84.48387,2015,1
 Beijing Normal University,CN,Beijing,39.9075,116.39723,2015,1
@@ -2986,17 +3063,18 @@ Inserm,FR,Paris,48.85341,2.3488,2015,1
 Rutgers New Jersey Medical School,US,Newark,40.73566,-74.17237,2015,1
 The University of Queensland,AU,Brisbane,-27.46794,153.02809,2015,1
 Ikerbasque,ES,Bilbao,43.26271,-2.92528,2015,1
-University Health Network,CA,Toronto,43.70643,-79.39864,2015,1
 Southeast University,BD,Dhaka,23.7104,90.40744,2015,1
 University of Manchester,GB,Manchester,53.48095,-2.23743,2015,1
 Weill Cornell Medicine,US,New York,40.71427,-74.00597,2015,1
 Carl von Ossietzky Universität Oldenburg,DE,Oldenburg,53.14039,8.21479,2015,1
 Chongqing University,CN,Chongqing,29.56026,106.55771,2015,1
+Max Planck Society,DE,Munich,48.13743,11.57549,2015,1
 Linköping University,SE,Linköping,58.41086,15.62157,2015,1
 NYU Langone Health,US,New York,40.71427,-74.00597,2015,1
 University of Illinois Urbana-Champaign,US,Urbana,40.11059,-88.20727,2015,1
 Fudan University,CN,Shanghai,31.22222,121.45806,2015,1
 University of Pisa,IT,Pisa,43.70853,10.4036,2015,1
+University of Malaya,MY,Kuala Lumpur,3.1412,101.68653,2015,1
 VA North Texas Health Care System,US,Dallas,32.697383880615234,-96.79158020019531,2015,1
 University of London,GB,London,51.50853,-0.12574,2015,1
 Philipps University of Marburg,DE,Marburg,50.80904,8.77069,2015,1
@@ -3021,6 +3099,7 @@ Goethe University Frankfurt,DE,Frankfurt am Main,50.11552,8.68417,2015,1
 National Institute of Mental Health,US,Bethesda,38.98067,-77.10026,2015,1
 Indiana University School of Medicine,US,Indianapolis,39.76837921142578,-86.15804290771484,2015,1
 University of Münster,DE,Münster,51.96236,7.62571,2015,1
+University of Cape Town,ZA,Rondebosch,-33.96333,18.47639,2015,1
 Massachusetts General Hospital,US,Boston,42.35843,-71.05977,2015,1
 University of Liège,BE,Liège,50.633731842041016,5.567490100860596,2015,1
 Brown University,US,Providence,41.82399,-71.41283,2015,1
@@ -3051,6 +3130,7 @@ National Institute of Mental Health and Neurosciences,IN,Bengaluru,12.97194,77.5
 The Affiliated Yongchuan Hospital of Chongqing Medical University,CN,Chongqing,29.56026,106.55771,2015,1
 Erasmus MC,NL,Rotterdam,51.9225,4.47917,2015,1
 Université de Sherbrooke,CA,Sherbrooke,45.40008,-71.89908,2015,1
+Asan Medical Center,KR,Seoul,37.566,126.9784,2015,1
 Universidad Autónoma de Nuevo León,MX,San Nicolás de los Garza,25.74167,-100.30222,2015,1
 Memorial Hermann,US,Houston,29.76328,-95.36327,2015,1
 Institute of Basic Medical Sciences of the Chinese Academy of Medical Sciences,CN,Beijing,39.907501220703125,116.39723205566406,2015,1
@@ -3066,6 +3146,7 @@ Marquette University,US,Milwaukee,43.0389,-87.90647,2015,1
 Defence Research and Development Canada,CA,Ottawa,45.41117,-75.69812,2015,1
 SHOWA Medical University,JP,Tokyo,35.6895,139.69171,2015,1
 Hong Kong Polytechnic University,HK,Hong Kong,22.27832,114.17469,2015,1
+Florida International University,US,Miami,25.77427,-80.19366,2015,1
 Dongzhimen Hospital Affiliated to Beijing University of Chinese Medicine,CN,Beijing,39.936927795410156,116.42662811279297,2015,1
 Georgetown University Medical Center,US,Washington,38.89511,-77.03637,2015,1
 Sunnybrook Health Science Centre,CA,Toronto,43.70643,-79.39864,2015,1
@@ -3075,6 +3156,7 @@ University of Calgary,CA,Calgary,51.05011,-114.08529,2015,1
 Johns Hopkins University,US,Baltimore,39.29038,-76.61219,2015,1
 Bar-Ilan University,IL,Ramat Gan,32.08227,34.81065,2015,1
 Max Planck Institute for Human Development,DE,Berlin,52.52436828613281,13.410530090332031,2015,1
+Baylor College of Medicine,US,Houston,29.76328,-95.36327,2015,1
 Yonsei University,KR,Seoul,37.566,126.9784,2015,1
 Otto-von-Guericke-Universität Magdeburg,DE,Magdeburg,52.13129,11.63189,2015,1
 University of Amsterdam,NL,Amsterdam,52.37403,4.88969,2015,1
@@ -3082,6 +3164,7 @@ Istituto Neurologico Mediterraneo,IT,Pozzilli,41.51142,14.06252,2015,1
 Instituto do Cérebro,BR,Porto Alegre,-30.03282928466797,-51.23019027709961,2015,1
 Humboldt-Universität zu Berlin,DE,Berlin,52.52437,13.41053,2015,1
 Stanford University,US,Stanford,37.42411,-122.16608,2015,1
+University Hospital of Basel,CH,Basel,47.55839,7.57327,2015,1
 MRC Cognition and Brain Sciences Unit,GB,Cambridge,52.19260025024414,0.11919999867677689,2015,1
 Gwangju Institute of Science and Technology,KR,Gwangju,35.154720306396484,126.91555786132812,2015,1
 Guangzhou Psychiatric Hospital,CN,Guangzhou,23.116670608520508,113.25,2014,1
@@ -3156,6 +3239,7 @@ Western University,CA,London,42.98339,-81.23304,2014,1
 Brigham and Women's Hospital,US,Boston,42.35843,-71.05977,2014,1
 "University of California, Santa Barbara",US,Santa Barbara,34.42083,-119.69819,2014,1
 Université de Sherbrooke,CA,Sherbrooke,45.40008,-71.89908,2014,1
+Ministry of Education of the People's Republic of China,CN,Beijing,39.9075,116.39723,2014,1
 Italian Institute of Technology,IT,Genoa,44.40478,8.94439,2014,1
 University of Turin,IT,Turin,45.07049,7.68682,2014,1
 University of Ottawa,CA,Ottawa,45.41117,-75.69812,2014,1
@@ -3194,7 +3278,6 @@ Georgetown University,US,Washington,38.89511,-77.03637,2014,1
 Rotman Research Institute,CA,Toronto,43.70643,-79.39864,2013,1
 The University of Texas Health Science Center at Houston,US,Houston,29.76328,-95.36327,2013,1
 University of Vermont,US,Burlington,44.47588,-73.21207,2013,1
-University of Wisconsin–Milwaukee,US,Milwaukee,43.0389,-87.90647,2013,1
 University of Washington,US,Seattle,47.60621,-122.33207,2013,1
 University of New Mexico,US,Albuquerque,35.08449,-106.65114,2013,1
 University of Glasgow,GB,Glasgow,55.86515,-4.25763,2013,1
@@ -3238,6 +3321,7 @@ Oulu University Hospital,FI,Oulu,65.01235961914062,25.46816062927246,2013,1
 Korea University,KR,Seoul,37.566,126.9784,2013,1
 University of York,GB,York,53.95763,-1.08271,2013,1
 Centre Hospitalier Universitaire Sainte-Justine,CA,Montreal,45.50884,-73.58781,2013,1
+Shandong University,CN,Jinan,36.66833,116.99722,2013,1
 Guangdong Provincial People's Hospital,CN,Guangzhou,23.11667,113.25,2013,1
 Xidian University,CN,Xi'an,34.258331298828125,108.9286117553711,2013,1
 Karolinska University Hospital,SE,Stockholm,59.32938003540039,18.068710327148438,2013,1
@@ -3246,6 +3330,7 @@ Justus-Liebig-Universität Gießen,DE,Giessen,50.58727,8.67554,2013,1
 Uniformed Services University of the Health Sciences,US,Bethesda,38.98067,-77.10026,2013,1
 National Institute of Neurological Disorders and Stroke,US,Bethesda,39.00382614135742,-77.10118103027344,2013,1
 Dartmouth–Hitchcock Medical Center,US,Lebanon,43.64229,-72.25176,2013,1
+Toronto Western Hospital,CA,Toronto,43.700111389160156,-79.41629791259766,2013,1
 African Institute for Mathematical Sciences,ZA,Cape Town,-33.925838470458984,18.423219680786133,2013,1
 Institute of Biostructure and Bioimaging,IT,Naples,40.8521614074707,14.268110275268555,2013,1
 University Medical Center of the Johannes Gutenberg University Mainz,DE,Mainz,49.98185,8.28008,2013,1
@@ -3253,7 +3338,7 @@ DCS Corporation (United States),US,Alexandria,38.768455505371094,-77.15583801269
 Zhongda Hospital Southeast University,CN,Nanjing,32.07139587402344,118.77664947509766,2013,1
 Eli Lilly (United States),US,Indianapolis,39.76838,-86.15804,2013,1
 University of Ottawa,CA,Ottawa,45.41117,-75.69812,2013,1
-University of Colorado Boulder,US,Boulder,40.01499,-105.27055,2013,1
+Lund University,SE,Lund,55.70584,13.19321,2013,1
 Sunnybrook Health Science Centre,CA,Toronto,43.70643,-79.39864,2013,1
 National Taiwan University,TW,Taipei,25.05306,121.52639,2013,1
 Wakayama Medical University,JP,Wakayama,34.23333,135.16667,2013,1
@@ -3272,6 +3357,7 @@ Chinese PLA General Hospital,CN,Beijing,39.9075,116.39723,2013,1
 University Medical Center Utrecht,NL,Utrecht,52.09083,5.12222,2013,1
 St. Michael's Hospital,CA,Toronto,43.70642852783203,-79.39864349365234,2013,1
 Karolinska Institutet,SE,Stockholm,59.32938,18.06871,2013,1
+Beijing Normal University,CN,Beijing,39.9075,116.39723,2013,1
 University of Exeter,GB,Exeter,50.72359848022461,-3.527509927749634,2013,1
 "Rutgers, The State University of New Jersey",US,New Brunswick,40.48622,-74.45182,2013,1
 University of Illinois Urbana-Champaign,US,Urbana,40.11059,-88.20727,2013,1
@@ -3427,6 +3513,7 @@ Rutgers New Jersey Medical School,US,Newark,40.73566,-74.17237,2011,1
 University of Illinois Urbana-Champaign,US,Urbana,40.11059,-88.20727,2011,1
 Southeast University,CN,Nanjing,32.06167,118.77778,2011,1
 The University of Texas Southwestern Medical Center,US,Dallas,32.78306,-96.80667,2011,1
+San Francisco VA Medical Center,US,San Francisco,37.782470703125,-122.50423431396484,2011,1
 Houston Methodist,US,Houston,29.76328,-95.36327,2010,1
 New Jersey Institute of Technology,US,Newark,40.73566,-74.17237,2010,1
 Baylor College of Medicine,US,Houston,29.76328,-95.36327,2010,1
@@ -3437,12 +3524,15 @@ The University of Texas Southwestern Medical Center,US,Dallas,32.78306,-96.80667
 Baycrest Hospital,CA,Toronto,43.70643,-79.39864,2010,1
 Dalhousie University,CA,Halifax,44.64269,-63.57688,2010,1
 University of Florida,US,Gainesville,29.65163,-82.32483,2010,1
+Oregon Health & Science University,US,Portland,45.5234489440918,-122.67620849609375,2010,1
 Harvard University,US,Cambridge,42.3751,-71.10561,2010,1
 University of Chicago,US,Chicago,41.85003,-87.65005,2010,1
 The University of Texas at Austin,US,Austin,30.26715,-97.74306,2010,1
+National Hospital for Neurology and Neurosurgery,GB,London,51.52226257324219,-0.12202999740839005,2010,1
 "University of California, Irvine",US,Irvine,33.66946,-117.82311,2010,1
 Washington University in St. Louis,US,St Louis,38.62727,-90.19789,2010,1
 University of Arizona,US,Tucson,32.22174,-110.92648,2010,1
+Massachusetts Institute of Technology,US,Cambridge,42.3751,-71.10561,2010,1
 Montreal Neurological Institute and Hospital,CA,Montreal,45.50884,-73.58781,2010,1
 Universidade Estadual de Campinas (UNICAMP),BR,Campinas,-22.90556,-47.06083,2010,1
 Yale University,US,New Haven,41.30815,-72.92816,2010,1
@@ -3450,6 +3540,7 @@ National Institute on Deafness and Other Communication Disorders,US,Bethesda,39.
 "University of California, Los Angeles",US,Los Angeles,34.05223,-118.24368,2010,1
 New York University,US,New York,40.71427,-74.00597,2010,1
 Rutgers New Jersey Medical School,US,Newark,40.73566,-74.17237,2010,1
+University Health Network,CA,Toronto,43.70643,-79.39864,2010,1
 University of Michigan,US,Ann Arbor,42.27756,-83.74088,2010,1
 Marquette University,US,Milwaukee,43.0389,-87.90647,2010,1
 University of Colorado Boulder,US,Boulder,40.01499,-105.27055,2010,1
@@ -3494,7 +3585,6 @@ Georgia State University,US,Atlanta,33.749,-84.38798,2009,1
 University of British Columbia,CA,Vancouver,49.24966,-123.11934,2009,1
 Massachusetts Institute of Technology,US,Cambridge,42.3751,-71.10561,2009,1
 "University of California, Berkeley",US,Berkeley,37.87159,-122.27275,2009,1
-University of Pennsylvania,US,Philadelphia,39.95238,-75.16362,2009,1
 California Institute of Technology,US,Pasadena,34.14778,-118.14452,2009,1
 University of Rochester Medicine,US,Rochester,43.15478,-77.61556,2009,1
 National Taiwan University,TW,Taipei,25.05306,121.52639,2009,1
@@ -3506,6 +3596,7 @@ University of Michigan,US,Ann Arbor,42.27756,-83.74088,2009,1
 Northwestern University,US,Evanston,42.04114,-87.69006,2009,1
 Cornell University,US,Ithaca,42.44063,-76.49661,2009,1
 University of York,GB,York,53.95763,-1.08271,2009,1
+Children's Hospital of Philadelphia,US,Philadelphia,39.9523811340332,-75.16361999511719,2009,1
 United States Department of Health and Human Services,US,Washington,38.89511,-77.03637,2009,1
 Rice University,US,Houston,29.76328,-95.36327,2008,1
 University of Georgia,US,Athens,33.96095,-83.37794,2008,1
@@ -3513,6 +3604,8 @@ University of Cincinnati,US,Cincinnati,39.12711,-84.51439,2008,1
 Northeastern University,US,Boston,42.35843,-71.05977,2008,1
 Heart and Stroke Foundation,CA,Toronto,43.70643,-79.39864,2008,1
 New York State Department of Health,US,Albany,42.65258026123047,-73.75623321533203,2008,1
+"University of California, Davis",US,Davis,38.54491,-121.74052,2008,1
+Illinois Institute of Technology,US,Chicago,41.85003,-87.65005,2008,1
 University of Cincinnati Medical Center,US,Cincinnati,39.13043975830078,-84.52094268798828,2008,1
 Michigan State University,US,East Lansing,42.73698,-84.48387,2008,1
 "University of California, Los Angeles",US,Los Angeles,34.05223,-118.24368,2008,1
@@ -3526,6 +3619,7 @@ Malcom Randall VA Medical Center,US,Gainesville,29.636882781982422,-82.345863342
 University of Washington,US,Seattle,47.60621,-122.33207,2008,1
 San Diego State University,US,San Diego,32.7157096862793,-117.16471862792969,2008,1
 Capital Medical University,CN,Beijing,39.9075,116.39723,2008,1
+Johns Hopkins University,US,Baltimore,39.29038,-76.61219,2008,1
 University of Pittsburgh,US,Pittsburgh,40.44062,-79.99589,2008,1
 The University of Texas Health Science Center at Houston,US,Houston,29.76328,-95.36327,2008,1
 William S. Middleton Memorial Veterans Hospital,US,Madison,43.07425308227539,-89.42936706542969,2008,1
@@ -3553,6 +3647,7 @@ California Institute of Technology,US,Pasadena,34.14778,-118.14452,2007,1
 Sunnybrook Health Science Centre,CA,Toronto,43.70643,-79.39864,2007,1
 Massachusetts General Hospital,US,Boston,42.35843,-71.05977,2007,1
 Malcom Randall VA Medical Center,US,Gainesville,29.636882781982422,-82.34586334228516,2007,1
+Bangor University,GB,Bangor,53.22751998901367,-4.129360198974609,2007,1
 University College London,GB,London,51.50853,-0.12574,2007,1
 University of Pennsylvania,US,Philadelphia,39.95238,-75.16362,2007,1
 University of Pittsburgh,US,Pittsburgh,40.44062,-79.99589,2007,1
@@ -3568,6 +3663,7 @@ University of Pittsburgh,US,Pittsburgh,40.44062,-79.99589,2006,1
 Marquette University,US,Milwaukee,43.0389,-87.90647,2006,1
 Medical University of South Carolina,US,Charleston,32.77632,-79.93275,2006,1
 University of Illinois Chicago,US,Chicago,41.85003,-87.65005,2006,1
+Harvard University,US,Cambridge,42.3751,-71.10561,2006,1
 Trinity College Dublin,IE,Dublin,53.33306121826172,-6.248889923095703,2006,1
 University of Massachusetts Chan Medical School,US,Worcester,42.26259,-71.80229,2006,1
 University of Wisconsin–Madison,US,Madison,43.07305,-89.40123,2006,1
@@ -3578,7 +3674,6 @@ Harvard University,US,Cambridge,42.3751,-71.10561,2005,1
 Brown University,US,Providence,41.82399,-71.41283,2005,1
 University of Pittsburgh,US,Pittsburgh,40.44062,-79.99589,2005,1
 Cornell University,US,Ithaca,42.44063,-76.49661,2005,1
-University of California San Diego,US,San Diego,32.71571,-117.16472,2005,1
 Johns Hopkins University,US,Baltimore,39.29038,-76.61219,2005,1
 San Diego State University,US,San Diego,32.7157096862793,-117.16471862792969,2005,1
 University of Wisconsin System,US,Madison,43.07305,-89.40123,2005,1

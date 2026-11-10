@@ -31,13 +31,15 @@ Two standard-library Python scripts, no API keys needed:
 ## Search filters
 
 A paper is included if its methods section contains "AFNI", "afni_proc" or
-"afni_proc.py", the paper also mentions "fMRI", "functional MRI" or "functional
-magnetic resonance imaging", and it was published between 1996 and 2026.
+"afni_proc.py", the paper also mentions "fMRI", "functional MRI", "functional
+magnetic resonance imaging", "EPI", "echo planar imaging" or "BOLD", and it was
+published between 1996 and 2026.
 Preprints are excluded. The Europe PMC query is:
 
 ```
 (METHODS:"AFNI" OR METHODS:"afni_proc" OR METHODS:"afni_proc.py")
-AND (fMRI OR "functional MRI" OR "functional magnetic resonance imaging")
+AND ("fMRI" OR "functional MRI" OR "functional magnetic resonance imaging"
+     OR "EPI" OR "echo planar imaging" OR "BOLD")
 AND PUB_YEAR:[1996 TO 2026] AND NOT SRC:PPR
 ```
 

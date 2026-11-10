@@ -255,7 +255,8 @@ HTML = r"""<!DOCTYPE html>
    institutions and locations: OpenAlex.</p>
    <p><b>Search filters.</b> A paper's methods section contained "AFNI",
    "afni_proc" or "afni_proc.py", and the paper also mentions "fMRI",
-   "functional MRI" or "functional magnetic resonance imaging", and was
+   "functional MRI", "functional magnetic resonance imaging", "EPI",
+   "echo planar imaging" or "BOLD", and was
    published between __SEARCH_YEARS__. Note that preprints are excluded__EARLY__.
    Across all years some published work may have been missed.</p>
    <p><b>Counting.</b> Each paper counts once, for the first listed institution
